@@ -1,0 +1,1636 @@
+flags,utterance,category,intent,intent_encoded,category_encoded
+BLQW,i have got to edit the goddamn info on my user profile,ACCOUNT,edit_account,14,0
+BM,assistance to solve payment issues,PAYMENT,payment_issue,18,8
+BM,I have problems with a user account deletion,ACCOUNT,delete_account,11,0
+BI,is it possible to submit some feedback for your services?,FEEDBACK,review,22,4
+BL,I need help to subscribe to the corporate newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,help to check in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+B,help me subscribe to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BI,can you help me to register?,ACCOUNT,create_account,10,0
+BI,can you help me submit some feedback?,FEEDBACK,review,22,4
+BI,where to buy an item?,ORDER,place_order,19,7
+BI,where to cancel the company newsletter subscription?,NEWSLETTER,newsletter_subscription,17,6
+B,I need assistance to check the refund status,REFUND,track_refund,26,9
+BL,I don't know what to do to receive your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,I want assistance to switch user,ACCOUNT,switch_account,24,0
+BIL,can you help me to lodge a claim against your organization?,FEEDBACK,complaint,7,4
+B,assistance to make an order,ORDER,place_order,19,7
+BM,I am calling to get the invoices from August,INVOICE,get_invoice,15,5
+BELQ,i do not know what to do to correct the info on my profile,ACCOUNT,edit_account,14,0
+B,I need to edit my account,ACCOUNT,edit_account,14,0
+BM,help me get refunds of money,REFUND,get_refund,16,9
+BLZ,help to modify the personal informatoin,ACCOUNT,edit_account,14,0
+B,assistance buying an item,ORDER,place_order,19,7
+BIM,how can I get the invoices?,INVOICE,get_invoice,15,5
+BE,I do not know what I need to do to track the refund,REFUND,track_refund,26,9
+BM,I need help to get the invoices from one purchases ago,INVOICE,get_invoice,15,5
+BE,I do not know what I have to do to delete an account,ACCOUNT,delete_account,11,0
+BI,how can I change something of an order?,ORDER,change_order,1,7
+BELZ,I am looking for information about the kkey reset,ACCOUNT,recover_password,20,0
+BM,I have problems with the delivery options,DELIVERY,delivery_options,12,3
+BE,I do not know how I can leave a review,FEEDBACK,review,22,4
+BIM,how can I find information about user account deletions?,ACCOUNT,delete_account,11,0
+BLQ,i want help to retrieve my user account pass,ACCOUNT,recover_password,20,0
+B,change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BM,I want to add some items to an order,ORDER,change_order,1,7
+B,help to file a complaint,FEEDBACK,complaint,7,4
+BILQ,how can i get in touch with customer assistance,CONTACT,contact_customer_service,8,2
+BM,I forgot to include some items in the order,ORDER,change_order,1,7
+B,I need to check in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+BI,how to check what hours customer service available is?,CONTACT,contact_customer_service,8,2
+B,I need assistance to get my money back,REFUND,get_refund,16,9
+B,I get an error when I try to pay,PAYMENT,payment_issue,18,8
+B,I want to change something of an order,ORDER,change_order,1,7
+BIP,how could I add an item?,ORDER,change_order,1,7
+BE,I do not know how to contact an agent,CONTACT,contact_human_agent,9,2
+BI,can I check the status of my refund?,REFUND,track_refund,26,9
+B,help creating an account,ACCOUNT,create_account,10,0
+BELQW,I cannot reset my damn user account pwd,ACCOUNT,recover_password,20,0
+BL,I don't know what I need to do to lodge a consumer claim,FEEDBACK,complaint,7,4
+BI,is it possible to talk to an agent?,CONTACT,contact_human_agent,9,2
+BELQ,i cannot notify of a registration error,ACCOUNT,registration_problems,21,0
+BMP,I don't know how I could check what delivery options I have,DELIVERY,delivery_options,12,3
+B,I don't know how I can check the refund status,REFUND,track_refund,26,9
+BP,I would like to get a refund of money,REFUND,get_refund,16,9
+BIP,would it be possible to set up a new shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I am trying to track an order,ORDER,track_order,25,7
+BM,assistance to get the invoices from December,INVOICE,get_invoice,15,5
+BI,is it possible to buy something?,ORDER,place_order,19,7
+BL,I am trying to talk with customer support,CONTACT,contact_customer_service,8,2
+BLZ,I try to check the eazrly termination penalty,CANCELLATION_FEE,check_cancellation_fee,3,1
+BL,assistance changing to a different account,ACCOUNT,switch_account,24,0
+BIM,is it possible to check what delivery options you offer?,DELIVERY,delivery_options,12,3
+B,I need help to set up a new shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,assistance to set up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I want to know about a password recovery,ACCOUNT,recover_password,20,0
+BKM,getting invoices from 2 purchases ago,INVOICE,get_invoice,15,5
+BIM,how to report an issue with payments?,PAYMENT,payment_issue,18,8
+BLQZ,i dont know how i can regitser my father,ACCOUNT,create_account,10,0
+BLZ,I don't know what I have to do to talk to customer asistance,CONTACT,contact_customer_service,8,2
+BP,I don't know how I could add something,ORDER,change_order,1,7
+BIMP,how could I check the cancellation fees?,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I don't know how to report a payment issue,PAYMENT,payment_issue,18,8
+BLQW,help me to edit the bloody info included on my user profile,ACCOUNT,edit_account,14,0
+B,I want to file a complaint against your business,FEEDBACK,complaint,7,4
+B,I need assistance cancelling an order I made,ORDER,cancel_order,0,7
+BM,I want help reporting issues with payments,PAYMENT,payment_issue,18,8
+B,I can't report a registration issue,ACCOUNT,registration_problems,21,0
+BKM,issues with payment,PAYMENT,payment_issue,18,8
+BP,I don't know how I could check your money back policy,REFUND,check_refund_policy,6,9
+BIP,could you help me getting a refund?,REFUND,get_refund,16,9
+BIL,can you help me speak with an agent?,CONTACT,contact_human_agent,9,2
+BIP,could I contact customer service?,CONTACT,contact_customer_service,8,2
+B,help me to track my order,ORDER,track_order,25,7
+B,I have to use another account,ACCOUNT,switch_account,24,0
+BLZ,I want assisrance seeing what payment options are allowed,PAYMENT,check_payment_methods,5,8
+BK,switching to another user,ACCOUNT,switch_account,24,0
+BI,how can I check your allowed payment methods?,PAYMENT,check_payment_methods,5,8
+BP,I would like to track an order,ORDER,track_order,25,7
+BI,how can I check if there is anything new on my refund?,REFUND,track_refund,26,9
+BL,assistance to check the available payment options,PAYMENT,check_payment_methods,5,8
+B,assistance setting up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLQ,need assistance checking the cancellation penalty,CANCELLATION_FEE,check_cancellation_fee,3,1
+BILM,what are the fees for breaking the contract?,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help me canceling the last order I have made,ORDER,cancel_order,0,7
+BIP,could you help me to delete the account?,ACCOUNT,delete_account,11,0
+BL,I need help cancelling the subscription to your newsletter,NEWSLETTER,newsletter_subscription,17,6
+BILQZ,can ya help me unsubscribe to the nedwsletter,NEWSLETTER,newsletter_subscription,17,6
+BLQ,need assistance checking the early termination charge,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need assistance setting up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I don't know what I have to do to edit my account,ACCOUNT,edit_account,14,0
+BELQ,i do not know what to do to make a consumer reclamation,FEEDBACK,complaint,7,4
+BEMP,I do not know how I could report an issue with payments,PAYMENT,payment_issue,18,8
+B,I have got to check the status of the refund,REFUND,track_refund,26,9
+BL,I need assistance chatting with somebody,CONTACT,contact_human_agent,9,2
+BM,I need assistance to get refunds of money,REFUND,get_refund,16,9
+BE,I do not know what to do to check the status of my refund,REFUND,track_refund,26,9
+B,help me editing my account,ACCOUNT,edit_account,14,0
+B,I can't cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I don't know how I can check the status of my order,ORDER,track_order,25,7
+BKL,retrieve account access key,ACCOUNT,recover_password,20,0
+BILQ,can uhelp me edit my online account,ACCOUNT,edit_account,14,0
+BK,order cancellation,ORDER,cancel_order,0,7
+B,help to cancel the order I made,ORDER,cancel_order,0,7
+BIMP,could you help me get refunds of money?,REFUND,get_refund,16,9
+BM,help to buy a few of your item,ORDER,place_order,19,7
+BE,I do not know what to do to leave a review for your company,FEEDBACK,review,22,4
+B,I need assistance reporting a payment issue,PAYMENT,payment_issue,18,8
+BL,help me recovering my account key,ACCOUNT,recover_password,20,0
+B,I need assistance to remove an item from an order,ORDER,change_order,1,7
+B,I want help to recover my password,ACCOUNT,recover_password,20,0
+BI,where is my refund?,REFUND,track_refund,26,9
+BILQZ,how do i open an new user account,ACCOUNT,create_account,10,0
+BIP,could you help me change the order I have made?,ORDER,change_order,1,7
+BI,can you help me delete my account?,ACCOUNT,delete_account,11,0
+BIMP,could I get the invoices from my last purchase?,INVOICE,get_invoice,15,5
+B,I want to buy something,ORDER,place_order,19,7
+BI,can you help me check how long refunds usually take?,REFUND,check_refund_policy,6,9
+B,I have to check how long the delivery takes,DELIVERY,delivery_period,13,3
+BM,I have a question about my payments,PAYMENT,payment_issue,18,8
+BIM,how do I get the invoices from my last purchase?,INVOICE,get_invoice,15,5
+BI,what do I need to do to talk to an agent?,CONTACT,contact_human_agent,9,2
+BP,I don't know how I could delete the account,ACCOUNT,delete_account,11,0
+BP,I would like to check your refund policy,REFUND,check_refund_policy,6,9
+BI,can I switch user?,ACCOUNT,switch_account,24,0
+BM,I forgot to include some items in my order,ORDER,change_order,1,7
+B,help changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BL,I don't know what I need to do to call customer assistance,CONTACT,contact_customer_service,8,2
+B,I want assistance submitting some feedback for your services,FEEDBACK,review,22,4
+B,I want to check the status of the refund,REFUND,track_refund,26,9
+BLQ,want assistance to speak to someone,CONTACT,contact_human_agent,9,2
+BEP,I do not know how I could track the refund,REFUND,track_refund,26,9
+BIMP,how could I get information about user account deletions?,ACCOUNT,delete_account,11,0
+B,I don't know what to do to register,ACCOUNT,create_account,10,0
+BI,what do I have to do to check your refund policy?,REFUND,check_refund_policy,6,9
+B,I need help with cancelling my order,ORDER,cancel_order,0,7
+BIM,how can I report issues with payments?,PAYMENT,payment_issue,18,8
+B,I need assistance getting a refund of money,REFUND,get_refund,16,9
+B,help with cancelling the order I have made,ORDER,cancel_order,0,7
+BM,I have got to report payment issues,PAYMENT,payment_issue,18,8
+BEM,I do not know how to get the invoices from 6 purchases ago,INVOICE,get_invoice,15,5
+BIP,could you help me to check what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BIMP,will you show me the invoices from last month?,INVOICE,check_invoice,4,5
+BLQW,i dont know what i have to do to reset my bloody password,ACCOUNT,recover_password,20,0
+BCEILMQ,i cannot find the early exit penalties can uhelp me,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I cannot change my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,what do I have to do to file a complaint?,FEEDBACK,complaint,7,4
+B,I want help tracking my order,ORDER,track_order,25,7
+BI,what do I have to do to set up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLQ,need assistance to use a new profile,ACCOUNT,switch_account,24,0
+B,I need help to change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want assistance to create an account,ACCOUNT,create_account,10,0
+BIP,will you give me information about a forgotten password?,ACCOUNT,recover_password,20,0
+B,I don't know how to get a refund,REFUND,get_refund,16,9
+BM,I try to buy several of your item,ORDER,place_order,19,7
+B,I want help checking in what cases can I ask for a refund,REFUND,check_refund_policy,6,9
+BLQ,i want assistance with my signup,ACCOUNT,registration_problems,21,0
+BE,I cannot cancel the subscription to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BI,how can I change the last order I have made?,ORDER,change_order,1,7
+B,help me to edit my personal information,ACCOUNT,edit_account,14,0
+BIM,where to check the invoices from six months ago?,INVOICE,check_invoice,4,5
+BLQ,need help cancelling my newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BI,can I check in what cases can I ask for my money back?,REFUND,check_refund_policy,6,9
+BP,I would like to contact an agent,CONTACT,contact_human_agent,9,2
+B,I want assistance talking to an agent,CONTACT,contact_human_agent,9,2
+BEM,I cannot report registration issues,ACCOUNT,registration_problems,21,0
+BEP,I do not know how I could leave a review for your services,FEEDBACK,review,22,4
+BLQZ,i dont know how i can check the available apyment options,PAYMENT,check_payment_methods,5,8
+BIP,will you tell me what hours I can contact customer service?,CONTACT,contact_customer_service,8,2
+B,I want to know about a forgotten password,ACCOUNT,recover_password,20,0
+BL,I want assistance to reset my access key,ACCOUNT,recover_password,20,0
+BIP,how could I get information about the options for delivery?,DELIVERY,delivery_options,12,3
+BI,can I check in what cases can I ask for a refund?,REFUND,check_refund_policy,6,9
+BM,I want assistance getting refunds,REFUND,get_refund,16,9
+B,I want assistance to change an order I made,ORDER,change_order,1,7
+BIL,how to sign up to the newsletter?,NEWSLETTER,newsletter_subscription,17,6
+BM,I don't know how I can check the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need to check when my delivery is going to arrive,DELIVERY,delivery_period,13,3
+BIL,can you help me creating an online account for my mom?,ACCOUNT,create_account,10,0
+BCL,"I want to update the information on my user account, help me",ACCOUNT,edit_account,14,0
+B,I have got to submit some feedback,FEEDBACK,review,22,4
+B,I want assistance making a purchase,ORDER,place_order,19,7
+BP,I would like to report a payment issue,PAYMENT,payment_issue,18,8
+BI,can you help me editing my personal information?,ACCOUNT,edit_account,14,0
+BIP,could I set a different shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,where to check the status of the refund?,REFUND,track_refund,26,9
+BIM,can you help me solving an issue with payments?,PAYMENT,payment_issue,18,8
+BIM,what do I have to do to buy some items?,ORDER,place_order,19,7
+BIP,could you tell me more about a shipping address change?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BP,I would like to switch user,ACCOUNT,switch_account,24,0
+BLZ,I have to retridve my PIN code,ACCOUNT,recover_password,20,0
+BK,reporting payment issue,PAYMENT,payment_issue,18,8
+B,I don't know what I need to do to submit some feedback,FEEDBACK,review,22,4
+BL,help me to see the withdrawal charge,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need to track the last order,ORDER,track_order,25,7
+BIM,where to buy several of your item?,ORDER,place_order,19,7
+BIP,could you help me buy something?,ORDER,place_order,19,7
+BIP,will you give me information about the options for delivery?,DELIVERY,delivery_options,12,3
+BM,I want assistance to add several items,ORDER,change_order,1,7
+BE,I am trying to find delivery periods,DELIVERY,delivery_period,13,3
+BI,how do I change the shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BCELZ,"I am not your customer, I want help signing pu",ACCOUNT,create_account,10,0
+BI,how can I check my invoice?,INVOICE,check_invoice,4,5
+BELQ,i do not know how to create a user account,ACCOUNT,create_account,10,0
+B,I have to check when my delivery is going to arrive,DELIVERY,delivery_period,13,3
+B,I try to change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I don't know how to recover my password,ACCOUNT,recover_password,20,0
+B,help with cancelling my last order,ORDER,cancel_order,0,7
+BELQ,i do not know what to do to open another freemium account,ACCOUNT,create_account,10,0
+BMP,I would like to get the invoices from 2 purchases ago,INVOICE,get_invoice,15,5
+B,I need assistance to change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIP,could you help me to contact an agent?,CONTACT,contact_human_agent,9,2
+BM,I want assistance reporting issues with payment,PAYMENT,payment_issue,18,8
+BM,I have issues changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BLW,assistance to speak to a fucking agent,CONTACT,contact_human_agent,9,2
+B,I call to get the invoice from last month,INVOICE,get_invoice,15,5
+BI,can you help me make a purchase?,ORDER,place_order,19,7
+BLM,I need help modifying my personal details,ACCOUNT,edit_account,14,0
+B,I have to report a payment issue,PAYMENT,payment_issue,18,8
+B,assistance checking what hours customer service available is,CONTACT,contact_customer_service,8,2
+B,I want help to track an order,ORDER,track_order,25,7
+BM,I need assistance to report registration issues,ACCOUNT,registration_problems,21,0
+BIL,how to see what hours customer service available is?,CONTACT,contact_customer_service,8,2
+BIP,will you show me how soon can I expect the item?,DELIVERY,delivery_period,13,3
+BM,help me finding the invoices from my last purchase,INVOICE,check_invoice,4,5
+BEP,I do not know how I could file a complaint,FEEDBACK,complaint,7,4
+B,I want help to leave a review,FEEDBACK,review,22,4
+BIL,can you show me the termination penalty?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BCIQ,i have got to check the cancellation fee how can i do it,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I do not know how I can contact an agent,CONTACT,contact_human_agent,9,2
+BIP,could you help me checking how long refunds take?,REFUND,check_refund_policy,6,9
+B,I am calling to check the delivery options,DELIVERY,delivery_options,12,3
+BP,I don't know how I could check how long the delivery takes,DELIVERY,delivery_period,13,3
+BI,where do I check the invoice from last month?,INVOICE,check_invoice,4,5
+B,I try to track my last order,ORDER,track_order,25,7
+B,help me cancelling an order I made,ORDER,cancel_order,0,7
+B,I need help to edit my account,ACCOUNT,edit_account,14,0
+BM,tell me more about the delivery period,DELIVERY,delivery_period,13,3
+BI,can you help me reporting a payment issue?,PAYMENT,payment_issue,18,8
+B,I want assistance editing my personal information,ACCOUNT,edit_account,14,0
+B,I want help editing my account,ACCOUNT,edit_account,14,0
+BIP,could you help me to submit some feedback?,FEEDBACK,review,22,4
+B,I have to set up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLZ,I wantto cancel the account,ACCOUNT,delete_account,11,0
+BI,can you help me to switch user?,ACCOUNT,switch_account,24,0
+B,assistance to find the invoice,INVOICE,check_invoice,4,5
+BELQZ,i do nt know how i can sign up,ACCOUNT,create_account,10,0
+BM,I have got to buy some of your item,ORDER,place_order,19,7
+BL,I have got to create a new online account for my mother,ACCOUNT,create_account,10,0
+B,I can't check my order ETA,ORDER,track_order,25,7
+BM,assistance checking what options for delivery I can choose,DELIVERY,delivery_options,12,3
+B,solve an issue with payment,PAYMENT,payment_issue,18,8
+BM,I want assistance checking the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BL,help me correcting the delivery address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BM,assistance to check the invoice from 5 purchases ago,INVOICE,check_invoice,4,5
+B,I am calling to submit some feedback for a service,FEEDBACK,review,22,4
+B,I need help canceling an order,ORDER,cancel_order,0,7
+BIL,how to see what payment options are allowed?,PAYMENT,check_payment_methods,5,8
+BEP,I do not know how I could check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help with adding an item to an order,ORDER,change_order,1,7
+B,assistance reporting a registration issue,ACCOUNT,registration_problems,21,0
+BIP,where could I recover my password?,ACCOUNT,recover_password,20,0
+BI,can I check the status of my order?,ORDER,track_order,25,7
+B,help me edit the information on my account,ACCOUNT,edit_account,14,0
+BM,information about user account deletions,ACCOUNT,delete_account,11,0
+BIP,how could I submit some feedback for a service?,FEEDBACK,review,22,4
+BLQ,need to switch to a different user profile,ACCOUNT,switch_account,24,0
+BE,I do not know what I have to do to find the invoice,INVOICE,check_invoice,4,5
+BI,how can I check at what time I can contact customer service?,CONTACT,contact_customer_service,8,2
+BIP,could you help me to check the cancellation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BCELQZ,i cannot remembre the pwd of my account i wanna reset it,ACCOUNT,recover_password,20,0
+BL,I have to check the early termination charge,CANCELLATION_FEE,check_cancellation_fee,3,1
+BILMZ,is it possible to check the early termimation penalties?,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help me checking the delivery options,DELIVERY,delivery_options,12,3
+BLZ,help to use an new user profile,ACCOUNT,switch_account,24,0
+BIP,could you help me contact an agent?,CONTACT,contact_human_agent,9,2
+BCEILQ,i do not need this account how do i switch to my other one,ACCOUNT,switch_account,24,0
+BM,I need information about forgotten passwords,ACCOUNT,recover_password,20,0
+BI,what is the status of my refund?,REFUND,track_refund,26,9
+BE,I do not know how to create an account,ACCOUNT,create_account,10,0
+BLQW,need support correcting my goddamn delivery address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,give me information about the delivery period,DELIVERY,delivery_period,13,3
+B,help to delete an account,ACCOUNT,delete_account,11,0
+BM,issues setting another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BEP,I do not know how I could check the status of my refund,REFUND,track_refund,26,9
+B,I want help editing my personal information,ACCOUNT,edit_account,14,0
+B,I want help to edit my account,ACCOUNT,edit_account,14,0
+B,I want information about a user account deletion,ACCOUNT,delete_account,11,0
+B,problem with adding an item,ORDER,change_order,1,7
+BELQZ,I do not know how I can chanbe the info on my user account,ACCOUNT,edit_account,14,0
+BMP,I don't know how I could check my invoices,INVOICE,check_invoice,4,5
+B,I need help tracking my order,ORDER,track_order,25,7
+B,I need help recovering my password,ACCOUNT,recover_password,20,0
+BIP,could you help me set up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I want to know more about the options for delivery,DELIVERY,delivery_options,12,3
+BIP,could you help me tracking the last order?,ORDER,track_order,25,7
+BK,subscription to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BM,I want help to report registration issues,ACCOUNT,registration_problems,21,0
+BI,is it possible to cancel the last order I made?,ORDER,cancel_order,0,7
+B,tell me about cancelling the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,assistance to take a quick look at my invoice,INVOICE,check_invoice,4,5
+BELQZ,i do not know how to unsubscribe to the newsleter,NEWSLETTER,newsletter_subscription,17,6
+B,help me to check when my item is going to arrive,DELIVERY,delivery_period,13,3
+BILZ,whee can I see your payment options?,PAYMENT,check_payment_methods,5,8
+BI,what do I need to do to check the refund status?,REFUND,track_refund,26,9
+BILW,where do I list the bloody allowed payment methods?,PAYMENT,check_payment_methods,5,8
+BI,where can I leave a review for your company?,FEEDBACK,review,22,4
+BIM,where to find the invoice from 6 months ago?,INVOICE,check_invoice,4,5
+BIP,could you show me the status of the refund?,REFUND,track_refund,26,9
+BIL,is it possible to check what payment options are accepted?,PAYMENT,check_payment_methods,5,8
+BI,can I track an order?,ORDER,track_order,25,7
+BIP,where could I get information about the delivery period?,DELIVERY,delivery_period,13,3
+B,assistance to check my refund status,REFUND,track_refund,26,9
+BE,I do not know what to do to set a new shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLM,I want assistance changing my personal details,ACCOUNT,edit_account,14,0
+BLM,supports trying to update my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BELM,I cannot find the early termination penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I want assistance checking the delivery options,DELIVERY,delivery_options,12,3
+B,assistance canceling the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I try to check how long the delivery takes,DELIVERY,delivery_period,13,3
+BL,I want help listing your accepted payment methods,PAYMENT,check_payment_methods,5,8
+B,I want a refund of money,REFUND,get_refund,16,9
+BM,I try to get refunds of money,REFUND,get_refund,16,9
+BI,what is the charge for breaking the contract?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BELZ,I am looking for information about azn address modification,SHIPPING_ADDRESS,change_shipping_address,2,10
+BLQ,need assistance to lodge a customer claim,FEEDBACK,complaint,7,4
+BL,I need help to make a complaint,FEEDBACK,complaint,7,4
+BI,where to cancel an order I made?,ORDER,cancel_order,0,7
+BIMP,could you help me getting refunds?,REFUND,get_refund,16,9
+B,I try to make a purchase,ORDER,place_order,19,7
+B,I want assistance to report a registration issue,ACCOUNT,registration_problems,21,0
+BIMP,where could I get information about forgotten passwords?,ACCOUNT,recover_password,20,0
+BLQ,i need help to close the online account,ACCOUNT,delete_account,11,0
+BLQ,i dont know what to do to create another standard account,ACCOUNT,create_account,10,0
+BM,I need assistance with changing some items of an order,ORDER,change_order,1,7
+BKL,create new user account for daughter,ACCOUNT,create_account,10,0
+BM,I don't know how to get the invoices from ten months ago,INVOICE,get_invoice,15,5
+B,I need to register,ACCOUNT,create_account,10,0
+BI,what do I have to do to contact an agent?,CONTACT,contact_human_agent,9,2
+BIP,how could I track an order?,ORDER,track_order,25,7
+BIM,where to check what delivery options you offer?,DELIVERY,delivery_options,12,3
+B,find information about cancelling an order,ORDER,cancel_order,0,7
+BM,help me to buy some of your item,ORDER,place_order,19,7
+BM,I don't know what I need to do to report registration issues,ACCOUNT,registration_problems,21,0
+BK,using another account,ACCOUNT,switch_account,24,0
+BIP,could you help me buying an item?,ORDER,place_order,19,7
+BIL,where to see what hours I can call customer service?,CONTACT,contact_customer_service,8,2
+BM,help me getting my invoices,INVOICE,get_invoice,15,5
+BILMQW,can uhelp me check the damn early exit penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I do not know how I can delete my account,ACCOUNT,delete_account,11,0
+BIP,could I check my refund status?,REFUND,track_refund,26,9
+BI,can you show me what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BILMQ,can utell me more about account cancellations,ACCOUNT,delete_account,11,0
+BI,can you help me subscribe to your company newsletter?,NEWSLETTER,newsletter_subscription,17,6
+BIL,can you help me updating the personal data?,ACCOUNT,edit_account,14,0
+B,help me changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BE,I cannot contact an agent,CONTACT,contact_human_agent,9,2
+B,I need assistance with canceling the last order,ORDER,cancel_order,0,7
+BI,can you help me submitting some feedback for your services?,FEEDBACK,review,22,4
+BM,I have to remove several items,ORDER,change_order,1,7
+BIL,what do I have to do to talk to a human agent?,CONTACT,contact_human_agent,9,2
+BIL,where to change to a new user profile?,ACCOUNT,switch_account,24,0
+B,I don't know what to do to delete my account,ACCOUNT,delete_account,11,0
+B,help me to get a refund of money,REFUND,get_refund,16,9
+BI,can you show me at what time customer service available is?,CONTACT,contact_customer_service,8,2
+BILQZ,where can i chck the withdrawal fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BL,I want help to speak with a live agent,CONTACT,contact_human_agent,9,2
+BM,I have issues setting up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIM,can you send me my invoices?,INVOICE,get_invoice,15,5
+BLMW,I want assistance checking the goddamn early exit penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIP,could you help me to check my order ETA?,ORDER,track_order,25,7
+BE,I cannot switch to another account,ACCOUNT,switch_account,24,0
+BIL,how do I check at what time I can call customer service?,CONTACT,contact_customer_service,8,2
+BIL,can you help me cancel my corporate newsletter subscription?,NEWSLETTER,newsletter_subscription,17,6
+BM,buy some items,ORDER,place_order,19,7
+BI,how can I check the cancellation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BCELQZ,i do not ned this user help using my new one,ACCOUNT,switch_account,24,0
+BE,why is not my new shipping address valid,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,take a quick look at the invoices from six months ago,INVOICE,check_invoice,4,5
+BLW,I have an error updating the damn shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BM,I need to check what options for delivery are available,DELIVERY,delivery_options,12,3
+B,I have to check the status of the refund,REFUND,track_refund,26,9
+B,I need help with canceling an order I made,ORDER,cancel_order,0,7
+BI,what do I need to do to delete my account?,ACCOUNT,delete_account,11,0
+B,I don't know how to buy something,ORDER,place_order,19,7
+B,I am trying to track my order,ORDER,track_order,25,7
+BM,I want assistance to buy some items,ORDER,place_order,19,7
+B,show me under what circumstances can I ask for refunds,REFUND,check_refund_policy,6,9
+BP,I would like to contact customer service,CONTACT,contact_customer_service,8,2
+B,I have got to set a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,send me the invoice from four months ago,INVOICE,get_invoice,15,5
+BILQ,can you help me update the info on my profile?,ACCOUNT,edit_account,14,0
+BIM,what do I have to do to check the cancellation fees?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BLQ,i have got to edit the data included on my account,ACCOUNT,edit_account,14,0
+B,help me to set another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I don't know what I have to do to check your refund policy,REFUND,check_refund_policy,6,9
+BM,change some items of an order,ORDER,change_order,1,7
+B,I need assistance subscribing to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,ETA of order,ORDER,track_order,25,7
+B,help regarding my registration,ACCOUNT,registration_problems,21,0
+BKM,check invoice from four months ago,INVOICE,check_invoice,4,5
+B,I want to check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me setting another shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I need to leave a review,FEEDBACK,review,22,4
+BI,can you help me getting my invoice?,INVOICE,get_invoice,15,5
+BI,is it possible to check your money back policy?,REFUND,check_refund_policy,6,9
+BLMQ,i have got to see the cancellation charges,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I want assistance to find the invoice from my last purchase,INVOICE,check_invoice,4,5
+BM,cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need assistance to check how long refunds usually take,REFUND,check_refund_policy,6,9
+BLM,information about standard account deletions,ACCOUNT,delete_account,11,0
+BM,I don't know what I have to do to find my invoices,INVOICE,check_invoice,4,5
+B,assistance to edit the information on my account,ACCOUNT,edit_account,14,0
+BQ,i want help to edit my personal information,ACCOUNT,edit_account,14,0
+BL,I have to speak to a person,CONTACT,contact_human_agent,9,2
+BIM,what do I need to do to report issues with payment?,PAYMENT,payment_issue,18,8
+BI,how to delete my account?,ACCOUNT,delete_account,11,0
+B,send me my invoice,INVOICE,get_invoice,15,5
+BI,can I check what hours I can contact customer service?,CONTACT,contact_customer_service,8,2
+B,help me change something of an order,ORDER,change_order,1,7
+BIM,can you help me to get the invoices from December?,INVOICE,get_invoice,15,5
+BE,I do not know what to do to create an account,ACCOUNT,create_account,10,0
+BI,what do I need to do to submit some feedback for a service?,FEEDBACK,review,22,4
+BIMP,where could I buy some items?,ORDER,place_order,19,7
+BI,can you help me to solve an issue with payment?,PAYMENT,payment_issue,18,8
+BLMQ,i want help to report registration errors,ACCOUNT,registration_problems,21,0
+B,I try to check the status of the refund,REFUND,track_refund,26,9
+B,help me checking how long refunds usually take,REFUND,check_refund_policy,6,9
+B,I want assistance checking your refund policy,REFUND,check_refund_policy,6,9
+BILQZ,ya have a free no to get in touch with customer support,CONTACT,contact_customer_service,8,2
+BEP,I do not know how I could get the invoice from January,INVOICE,get_invoice,15,5
+B,I am trying to check how soon can I expect the delivery,DELIVERY,delivery_period,13,3
+BIMP,could I check if there is any updates on my refund?,REFUND,track_refund,26,9
+BLQZ,want assistance to change the personal informtaion,ACCOUNT,edit_account,14,0
+BLQ,want help to speak to an operator,CONTACT,contact_human_agent,9,2
+BI,under what circumstances can I ask for a refund?,REFUND,check_refund_policy,6,9
+B,show me under what circumstances can I ask for a refund,REFUND,check_refund_policy,6,9
+B,help me to submit some feedback for a service,FEEDBACK,review,22,4
+BI,can I edit the information on my account?,ACCOUNT,edit_account,14,0
+BIMP,how could I report an issue with payments?,PAYMENT,payment_issue,18,8
+BCIL,"I have got to modify my online account, how can I do it?",ACCOUNT,edit_account,14,0
+B,I am trying to set up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,can you help me checking your money back policy?,REFUND,check_refund_policy,6,9
+B,I can't track my last order,ORDER,track_order,25,7
+BI,can I check what hours customer service available is?,CONTACT,contact_customer_service,8,2
+BP,I would like information about a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I don't know how to delete my account,ACCOUNT,delete_account,11,0
+BLQ,i want help contacting a human agent,CONTACT,contact_human_agent,9,2
+BM,I don't know how to buy some items,ORDER,place_order,19,7
+BCELQZ,i no longer need these user i have to switch to my other one,ACCOUNT,switch_account,24,0
+BLQZ,need assistance to check the allowe payment methods,PAYMENT,check_payment_methods,5,8
+BI,how to change my shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIP,could you help me to solve an issue with payment?,PAYMENT,payment_issue,18,8
+BLQ,wanna make a consumer claim against ur organization,FEEDBACK,complaint,7,4
+B,I need to track my last order,ORDER,track_order,25,7
+B,help to check what payment methods are available,PAYMENT,check_payment_methods,5,8
+B,tell me more about unsubscribing to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BLQ,need assistance to use my new profile,ACCOUNT,switch_account,24,0
+BLM,I need help checking the cancellation charges,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me check the status of my order?,ORDER,track_order,25,7
+B,I want help setting up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,can you help me checking what payment methods are available?,PAYMENT,check_payment_methods,5,8
+BIM,can you help me checking what options for delivery I have?,DELIVERY,delivery_options,12,3
+B,help me canceling the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I am trying to register,ACCOUNT,create_account,10,0
+BIP,will you show me how soon can I expect the delivery?,DELIVERY,delivery_period,13,3
+BL,I want to change to another user account,ACCOUNT,switch_account,24,0
+B,I want to know more about delivery period,DELIVERY,delivery_period,13,3
+BELW,I cannot recover my damn PIN,ACCOUNT,recover_password,20,0
+BIL,can you help me to switch to another user account?,ACCOUNT,switch_account,24,0
+BIP,could you help me solve a payment issue?,PAYMENT,payment_issue,18,8
+BLQ,i try to remove my account,ACCOUNT,delete_account,11,0
+B,I don't know what to do to set up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I need assistance to switch to another account,ACCOUNT,switch_account,24,0
+BIP,could I register?,ACCOUNT,create_account,10,0
+BELQ,i do not know how i can correct the data on my user profile,ACCOUNT,edit_account,14,0
+BCELQZ,uare not helpful help me speak  to an assistant,CONTACT,contact_human_agent,9,2
+BM,I want help changing some items of an order,ORDER,change_order,1,7
+BI,where can I get my invoice?,INVOICE,get_invoice,15,5
+B,I need assistance leaving a review for your services,FEEDBACK,review,22,4
+BILQ,where can I find information about my lost pwd?,ACCOUNT,recover_password,20,0
+BL,cancel the newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I want assistance leaving a review for a service,FEEDBACK,review,22,4
+BIP,could I delete my account?,ACCOUNT,delete_account,11,0
+B,I need information about a user account deletion,ACCOUNT,delete_account,11,0
+BIMP,could I check what delivery options I have?,DELIVERY,delivery_options,12,3
+BM,I don't know what I have to do to get the invoices,INVOICE,get_invoice,15,5
+B,I have to register,ACCOUNT,create_account,10,0
+B,help to cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BM,I have problems with a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want assistance to check how long the delivery takes,DELIVERY,delivery_period,13,3
+BM,solve payment issues,PAYMENT,payment_issue,18,8
+BM,I want assistance buying several of your item,ORDER,place_order,19,7
+BELQZ,i do not know how i can check the avaqilable payment methods,PAYMENT,check_payment_methods,5,8
+B,help to recover my password,ACCOUNT,recover_password,20,0
+BLQ,I'm trying to speak with customer support,CONTACT,contact_customer_service,8,2
+BLQ,i need help filing a complaint against ur company,FEEDBACK,complaint,7,4
+BI,where can I check how soon can I expect the item?,DELIVERY,delivery_period,13,3
+BIP,how could I check my refund status?,REFUND,track_refund,26,9
+BIP,will you show me what hours customer service available is?,CONTACT,contact_customer_service,8,2
+B,I try to report a registration issue,ACCOUNT,registration_problems,21,0
+BLZ,assistance to see what payment options are avaqilable,PAYMENT,check_payment_methods,5,8
+BM,help to get refunds,REFUND,get_refund,16,9
+BI,how do I set a new shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BE,I am looking for information about the options for delivery,DELIVERY,delivery_options,12,3
+BL,assistance lodging a reclamation against your organization,FEEDBACK,complaint,7,4
+BLQ,want help speaking to customer service,CONTACT,contact_customer_service,8,2
+B,problem with changing an order,ORDER,change_order,1,7
+BI,where can I check when will my item arrive?,DELIVERY,delivery_period,13,3
+B,I need assistance with canceling an order I made,ORDER,cancel_order,0,7
+BIP,would it be possible to check your allowed payment methods?,PAYMENT,check_payment_methods,5,8
+BIM,can you help me to check what options for delivery I have?,DELIVERY,delivery_options,12,3
+BLM,I am trying to notify of registration issues,ACCOUNT,registration_problems,21,0
+BLQ,need help recovering my online account access key,ACCOUNT,recover_password,20,0
+BIMP,could you help me buying several of your item?,ORDER,place_order,19,7
+BM,I have to report registration issues,ACCOUNT,registration_problems,21,0
+BP,I don't know how I could report a registration issue,ACCOUNT,registration_problems,21,0
+BIP,how could I set up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,where to change the shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I need help reporting an issue with payment,PAYMENT,payment_issue,18,8
+B,I need help checking the invoice from December,INVOICE,check_invoice,4,5
+BIP,could I check the refund status?,REFUND,track_refund,26,9
+B,help me changing an order I have made,ORDER,change_order,1,7
+BIP,could you help me to cancel an order?,ORDER,cancel_order,0,7
+BIP,could you tell me more about the options for delivery?,DELIVERY,delivery_options,12,3
+B,I don't know how I can leave a review for your company,FEEDBACK,review,22,4
+BILQ,how do i see the cancellation charge,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I don't know what I need to do to change my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BEM,I do not know how to get refunds,REFUND,get_refund,16,9
+BM,help to add several items to an order,ORDER,change_order,1,7
+BLQ,help to reset the pwd of my account,ACCOUNT,recover_password,20,0
+B,help to check at what time I can contact customer service,CONTACT,contact_customer_service,8,2
+BE,I do not know how I can make an order,ORDER,place_order,19,7
+BL,help to list your payment methods,PAYMENT,check_payment_methods,5,8
+BILPQ,could uhelp me inform of a registration error,ACCOUNT,registration_problems,21,0
+BM,I don't know how I can find the invoice from 9 months ago,INVOICE,check_invoice,4,5
+BEP,I do not know how I could set up a new shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLQ,want support changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I need assistance solving an issue with payment,PAYMENT,payment_issue,18,8
+B,assistance to edit my personal information,ACCOUNT,edit_account,14,0
+B,I want assistance checking the status of my refund,REFUND,track_refund,26,9
+BI,can you help me contacting customer service?,CONTACT,contact_customer_service,8,2
+BE,I do not know how I can check the status of my refund,REFUND,track_refund,26,9
+BI,how can I check what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BL,I want help to close a secondary account,ACCOUNT,delete_account,11,0
+BI,can you show me your refund policy?,REFUND,check_refund_policy,6,9
+BI,where do I check what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BE,I do not know how to leave a review for your company,FEEDBACK,review,22,4
+BEL,I do not know what to do to reset my online account PIN,ACCOUNT,recover_password,20,0
+B,tell me what payment methods are available,PAYMENT,check_payment_methods,5,8
+BK,change order,ORDER,change_order,1,7
+BM,assistance getting the invoices from eight months ago,INVOICE,get_invoice,15,5
+BM,I have issues with the registration,ACCOUNT,registration_problems,21,0
+B,I can't pay for my last order,ORDER,cancel_order,0,7
+BI,where do I check your money back policy?,REFUND,check_refund_policy,6,9
+BI,how can I check how soon can I expect the item?,DELIVERY,delivery_period,13,3
+BIP,could I check how long refunds usually take?,REFUND,check_refund_policy,6,9
+BIM,where can I get the invoices from my last purchase?,INVOICE,get_invoice,15,5
+BM,I have got to check the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me edit the information on my account?,ACCOUNT,edit_account,14,0
+BILQZ,how do i filer a customer complaint,FEEDBACK,complaint,7,4
+B,I can't find the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me check my order ETA?,ORDER,track_order,25,7
+BE,I do not know what I need to do to delete an account,ACCOUNT,delete_account,11,0
+BM,I have got to get the invoices from 1 purchases ago,INVOICE,get_invoice,15,5
+B,assistance checking in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+BIM,how do I get my invoices?,INVOICE,get_invoice,15,5
+BLQ,wanna check at what time i can call customer service,CONTACT,contact_customer_service,8,2
+BE,I do not know what I need to do to track an order,ORDER,track_order,25,7
+B,I need assistance submitting some feedback,FEEDBACK,review,22,4
+B,assistance canceling my last order,ORDER,cancel_order,0,7
+BL,help me contact someone,CONTACT,contact_human_agent,9,2
+BILQ,what do i need to do to open a new account,ACCOUNT,create_account,10,0
+BLQ,i try to sign up to ur newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,assistance editing my personal information,ACCOUNT,edit_account,14,0
+B,assistance cancelling an order I made,ORDER,cancel_order,0,7
+BILQ,where to switch to a new user account,ACCOUNT,switch_account,24,0
+B,I want assistance solving an issue with payment,PAYMENT,payment_issue,18,8
+B,I have got to check the options for delivery,DELIVERY,delivery_options,12,3
+BIP,could I track the refund?,REFUND,track_refund,26,9
+B,I don't know how to file a complaint,FEEDBACK,complaint,7,4
+BIM,can you help me check the invoices from 9 months ago?,INVOICE,check_invoice,4,5
+BLM,assistance to change my personal details,ACCOUNT,edit_account,14,0
+BE,I cannot cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I need to check the status of the refund,REFUND,track_refund,26,9
+BLQ,i need assistance to switch to a different user profile,ACCOUNT,switch_account,24,0
+B,help to check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BEM,I do not know what I need to do to find the invoices,INVOICE,check_invoice,4,5
+BI,where can I check my order ETA?,ORDER,track_order,25,7
+BIP,where could I track an order?,ORDER,track_order,25,7
+BLQW,i need help cancelling a goddamn secondary account,ACCOUNT,delete_account,11,0
+BLZ,I have to restore my online account accdss key,ACCOUNT,recover_password,20,0
+B,I want assistance to remove something,ORDER,change_order,1,7
+BM,I need help to report an issue with payments,PAYMENT,payment_issue,18,8
+B,help me to check what hours customer service available is,CONTACT,contact_customer_service,8,2
+BI,what is my refund status?,REFUND,track_refund,26,9
+BL,I try to make a complaint,FEEDBACK,complaint,7,4
+BL,I have got to see your available payment methods,PAYMENT,check_payment_methods,5,8
+BCELQ,I'm not happy with ur service file a customer reclamation,FEEDBACK,complaint,7,4
+B,help me getting the invoice,INVOICE,get_invoice,15,5
+BK,submitting product review,FEEDBACK,review,22,4
+BIL,can you help me to use a new profile?,ACCOUNT,switch_account,24,0
+BM,I want assistance to report issues with payment,PAYMENT,payment_issue,18,8
+B,when can I expect a refund of money,REFUND,get_refund,16,9
+BI,in what cases can I ask for my money back?,REFUND,check_refund_policy,6,9
+B,I have to check your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BLQ,need assistance resetting the PIN of my account,ACCOUNT,recover_password,20,0
+BMP,I would like to get refunds of money,REFUND,get_refund,16,9
+B,I have to leave a review,FEEDBACK,review,22,4
+BI,can you give me information about delivery periods?,DELIVERY,delivery_period,13,3
+BM,I have to take a quick look at my invoices,INVOICE,check_invoice,4,5
+BL,I am trying to open a user account for my dad,ACCOUNT,create_account,10,0
+BCILZ,"I have got to modify the data on my profile, ca you help me?",ACCOUNT,edit_account,14,0
+B,help me to contact customer service,CONTACT,contact_customer_service,8,2
+B,I don't know how to delete the account,ACCOUNT,delete_account,11,0
+BK,get refund,REFUND,get_refund,16,9
+B,remove something,ORDER,change_order,1,7
+B,help checking how soon can I expect the delivery,DELIVERY,delivery_period,13,3
+BILQ,can uhelp me switch to my new account,ACCOUNT,switch_account,24,0
+BM,I want help to find the invoice from 5 purchases ago,INVOICE,check_invoice,4,5
+B,I am trying to get a refund,REFUND,get_refund,16,9
+B,help me tracking an order,ORDER,track_order,25,7
+BIP,where could I track my order?,ORDER,track_order,25,7
+B,help me checking your money back policy,REFUND,check_refund_policy,6,9
+BIL,how do I open an account?,ACCOUNT,create_account,10,0
+BI,how can I set up another shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIP,could you show me what hours I can contact customer service?,CONTACT,contact_customer_service,8,2
+BM,I don't know how to check what options for delivery I have,DELIVERY,delivery_options,12,3
+BLM,I want help to notify of sign-up errors,ACCOUNT,registration_problems,21,0
+BM,help checking what delivery options are available,DELIVERY,delivery_options,12,3
+BP,I don't know how I could track an order,ORDER,track_order,25,7
+BM,help buying several items,ORDER,place_order,19,7
+BLQ,i want assistance to restore my user account access key,ACCOUNT,recover_password,20,0
+BLQZ,i dont knowwhat to do to sign up to the newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,help checking in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+BIM,where do I buy some of your item?,ORDER,place_order,19,7
+BI,is there an e-mail to submit a review for your services?,FEEDBACK,review,22,4
+BILW,can I restore the goddamn PIN code of my account?,ACCOUNT,recover_password,20,0
+BM,I don't know how I can add several items,ORDER,change_order,1,7
+BE,I do not know what to do to edit my account,ACCOUNT,edit_account,14,0
+BIM,can you help me add several items to an order?,ORDER,change_order,1,7
+BI,where can I find information about a forgotten password?,ACCOUNT,recover_password,20,0
+BLQZ,i have to check the pahment options,PAYMENT,check_payment_methods,5,8
+BM,I need to report registration issues,ACCOUNT,registration_problems,21,0
+B,I don't know how to report a registration issue,ACCOUNT,registration_problems,21,0
+BI,where do I check the status of my order?,ORDER,track_order,25,7
+BI,where to track the refund?,REFUND,track_refund,26,9
+BE,I do not know how to switch to another account,ACCOUNT,switch_account,24,0
+B,I don't know what I need to do to check my order ETA,ORDER,track_order,25,7
+B,show me how long refunds usually take,REFUND,check_refund_policy,6,9
+BCELMQZ,i cannot find the termination penaltiesi need help,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,assistance recovering my password,ACCOUNT,recover_password,20,0
+B,help me checking the invoice from my last purchase,INVOICE,check_invoice,4,5
+B,I need to recover my password,ACCOUNT,recover_password,20,0
+BELQ,i do not know what to do to edit the data on my profile,ACCOUNT,edit_account,14,0
+B,I don't know how I can check my refund status,REFUND,track_refund,26,9
+B,I don't know how to get my invoice,INVOICE,get_invoice,15,5
+BI,how long does it usually take for an item to arrive?,DELIVERY,delivery_period,13,3
+BIM,can you help me get the invoices from October?,INVOICE,get_invoice,15,5
+BLQ,i dont know how i can talk to a live agent,CONTACT,contact_human_agent,9,2
+BIM,how to remove some items from an order?,ORDER,change_order,1,7
+BE,I do not know what I need to do to find the invoice,INVOICE,check_invoice,4,5
+BIMP,would it be possible to report issues with payment?,PAYMENT,payment_issue,18,8
+BIMP,would it be possible to report payment issues?,PAYMENT,payment_issue,18,8
+BLQ,need assistance seeing what payment methods are accepted,PAYMENT,check_payment_methods,5,8
+B,I need help to talk to an agent,CONTACT,contact_human_agent,9,2
+BIP,could I submit some feedback for your services?,FEEDBACK,review,22,4
+BILQ,can ya help me to subscribe to ur corporate newsletter,NEWSLETTER,newsletter_subscription,17,6
+BIP,how could I buy an item?,ORDER,place_order,19,7
+BM,give me information about cancelling orders,ORDER,cancel_order,0,7
+B,assistance checking your refund policy,REFUND,check_refund_policy,6,9
+B,assistance to get the invoice from last month,INVOICE,get_invoice,15,5
+BK,password recovery,ACCOUNT,recover_password,20,0
+BI,are the charges for your services refundable?,REFUND,check_refund_policy,6,9
+BP,I would like to set up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BELQ,i do not know how to file a customer reclamation,FEEDBACK,complaint,7,4
+B,I have to track my last order,ORDER,track_order,25,7
+BI,how to add something?,ORDER,change_order,1,7
+BIP,could I edit the information on my account?,ACCOUNT,edit_account,14,0
+BI,can you help me to contact an agent?,CONTACT,contact_human_agent,9,2
+BM,I have issues registering,ACCOUNT,registration_problems,21,0
+BKM,get invoice from 3 purchases ago,INVOICE,get_invoice,15,5
+BI,how do I buy something?,ORDER,place_order,19,7
+BIP,could you help me to create an account?,ACCOUNT,create_account,10,0
+B,check my refund status,REFUND,track_refund,26,9
+BE,I do not know how I can check the options for delivery,DELIVERY,delivery_options,12,3
+BIP,how could I change the shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BILQ,can i see at what time i can contact customer assistance,CONTACT,contact_customer_service,8,2
+BIP,could I set up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BL,making claim against your company,FEEDBACK,complaint,7,4
+BLZ,I don't know how to reset myuser account PIN,ACCOUNT,recover_password,20,0
+BL,filing consumer reclamation against your company,FEEDBACK,complaint,7,4
+BLMQ,i dont know how i can check the withdrawal penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help me to check when will my item arrive,DELIVERY,delivery_period,13,3
+B,check what hours customer service available is,CONTACT,contact_customer_service,8,2
+B,I am trying to switch user,ACCOUNT,switch_account,24,0
+BM,assistance checking what delivery options are available,DELIVERY,delivery_options,12,3
+BI,what do I need to do to get a refund of money?,REFUND,get_refund,16,9
+B,tell me about cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BI,how do I leave a review for a service?,FEEDBACK,review,22,4
+BIMP,could you show me the cancellation fees?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I do not want to pay for my last order,ORDER,cancel_order,0,7
+BIM,where to buy several items?,ORDER,place_order,19,7
+B,assistance editing my account,ACCOUNT,edit_account,14,0
+B,help checking if there is anything wrong with my refund,REFUND,track_refund,26,9
+BIL,where to check what hours I can contact customer support?,CONTACT,contact_customer_service,8,2
+B,show me how soon can I expect the delivery,DELIVERY,delivery_period,13,3
+B,I am trying to get the invoice from my last purchase,INVOICE,get_invoice,15,5
+BI,where to check how long the delivery takes?,DELIVERY,delivery_period,13,3
+BM,I need to get refunds,REFUND,get_refund,16,9
+B,tell me what hours I can contact customer service,CONTACT,contact_customer_service,8,2
+BKM,getting invoices,INVOICE,get_invoice,15,5
+BI,how to check when my delivery is going to arrive?,DELIVERY,delivery_period,13,3
+BM,I have a problem with user account deletions,ACCOUNT,delete_account,11,0
+BL,I try to check what hours customer assistance available is,CONTACT,contact_customer_service,8,2
+B,assistance canceling the order I have made,ORDER,cancel_order,0,7
+B,I have to get the invoice,INVOICE,get_invoice,15,5
+B,I don't know what I need to do to recover my password,ACCOUNT,recover_password,20,0
+BCELQZ,I'm not happy with ur service help me make an customer claim,FEEDBACK,complaint,7,4
+BIL,what do I need to do to open an account?,ACCOUNT,create_account,10,0
+B,I have got to cancel an order,ORDER,cancel_order,0,7
+B,I want to cancel the last order I made,ORDER,cancel_order,0,7
+B,I call to check the options for delivery,DELIVERY,delivery_options,12,3
+B,I have to leave a review for a service,FEEDBACK,review,22,4
+BCILM,"I need to ask for compensations, can you help me?",REFUND,get_refund,16,9
+BLM,I don't know how to check the termination penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIL,where to lodge a customer complaint against your business?,FEEDBACK,complaint,7,4
+B,customer service,CONTACT,contact_customer_service,8,2
+B,I have a question about a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+BE,I do not know how to edit my personal information,ACCOUNT,edit_account,14,0
+BILQ,what do i have to do to talk to someone,CONTACT,contact_human_agent,9,2
+B,I want assistance to cancel my order,ORDER,cancel_order,0,7
+B,I have to create an account,ACCOUNT,create_account,10,0
+BIP,how could I track the refund?,REFUND,track_refund,26,9
+BI,where can I get information about the delivery period?,DELIVERY,delivery_period,13,3
+BM,help me get my invoices,INVOICE,get_invoice,15,5
+BKM,checking invoices from May,INVOICE,check_invoice,4,5
+B,I want assistance checking my order ETA,ORDER,track_order,25,7
+BP,I would like to report a registration issue,ACCOUNT,registration_problems,21,0
+BIM,where can I buy several of your item?,ORDER,place_order,19,7
+B,I have a question about canceling my order,ORDER,cancel_order,0,7
+BIMP,could you help me check what options for delivery you offer?,DELIVERY,delivery_options,12,3
+B,I want help to delete an account,ACCOUNT,delete_account,11,0
+BIM,how to find the invoices from October?,INVOICE,check_invoice,4,5
+BM,I need to check what options for delivery I have,DELIVERY,delivery_options,12,3
+BCELM,"I cannot register, help me informing of sign-up issues",ACCOUNT,registration_problems,21,0
+B,help me track my last order,ORDER,track_order,25,7
+BLQ,want assistance checking the available payment methods,PAYMENT,check_payment_methods,5,8
+B,I want help to find the invoice from September,INVOICE,check_invoice,4,5
+B,information about changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BEM,I do not know what to do to get refunds,REFUND,get_refund,16,9
+BCILQ,the address has changed can i edit it,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIMP,will you show me what delivery options are available?,DELIVERY,delivery_options,12,3
+BLM,help me to notify of signup errors,ACCOUNT,registration_problems,21,0
+BIP,could you help me change an order I have made?,ORDER,change_order,1,7
+BIL,can you help me to inform of a sign-up problem?,ACCOUNT,registration_problems,21,0
+BM,I need assistance buying a few of your item,ORDER,place_order,19,7
+BELQ,i do not know how i can see the cancellation charge,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I want to delete an account,ACCOUNT,delete_account,11,0
+BE,I do not know how I can contact customer service,CONTACT,contact_customer_service,8,2
+BIP,could you show me in what cases can I ask for a refund?,REFUND,check_refund_policy,6,9
+BI,can you help me submitting some feedback?,FEEDBACK,review,22,4
+BM,I need to take a quick look at the invoice from 6 months ago,INVOICE,check_invoice,4,5
+BIP,could you show me my refund status?,REFUND,track_refund,26,9
+BM,I want help to find the invoices from 1 months ago,INVOICE,check_invoice,4,5
+B,question about a password recovery,ACCOUNT,recover_password,20,0
+BM,I need assistance with adding some items,ORDER,change_order,1,7
+B,question about canceling an order,ORDER,cancel_order,0,7
+BP,I would like to cancel an order,ORDER,cancel_order,0,7
+B,I want assistance to buy an item,ORDER,place_order,19,7
+B,I want assistance checking the status of my order,ORDER,track_order,25,7
+BI,can I track my last order?,ORDER,track_order,25,7
+BKM,registration issues,ACCOUNT,registration_problems,21,0
+BIP,could you tell me your allowed payment methods?,PAYMENT,check_payment_methods,5,8
+BIP,could you help me getting the invoice?,INVOICE,get_invoice,15,5
+BM,I want to know more about user account deletions,ACCOUNT,delete_account,11,0
+B,I have to set a new shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BL,speak to a person,CONTACT,contact_human_agent,9,2
+BI,can I set a different shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I am trying to check how long refunds usually take,REFUND,check_refund_policy,6,9
+BE,I do not know how I can change an item of an order,ORDER,change_order,1,7
+B,give me information about delivery periods,DELIVERY,delivery_period,13,3
+B,unsubscribing to company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BI,can you help me tracking the last order?,ORDER,track_order,25,7
+BI,what do I need to do to edit the information on my account?,ACCOUNT,edit_account,14,0
+BLQ,i dont know what i have to do to reset my account password,ACCOUNT,recover_password,20,0
+B,I want help to register,ACCOUNT,create_account,10,0
+BIM,where to get refunds?,REFUND,get_refund,16,9
+BE,I do not know what I have to do to recover my password,ACCOUNT,recover_password,20,0
+BI,when am I going to get a refund of money?,REFUND,get_refund,16,9
+B,I need to check what payment methods are available,PAYMENT,check_payment_methods,5,8
+BIP,could you help me deleting the account?,ACCOUNT,delete_account,11,0
+B,I can't check if there is anything wrong with my refund,REFUND,track_refund,26,9
+BI,can you give me information about canceling an order?,ORDER,cancel_order,0,7
+BLQ,want assistance to speak with a human agent,CONTACT,contact_human_agent,9,2
+BIP,would it be possible to check how long the delivery takes?,DELIVERY,delivery_period,13,3
+BLQZ,i need assistance to craete a new user account,ACCOUNT,create_account,10,0
+B,help to check what payment methods you accept,PAYMENT,check_payment_methods,5,8
+BL,I am calling to lodge a claim against your organization,FEEDBACK,complaint,7,4
+B,I want help to contact customer service,CONTACT,contact_customer_service,8,2
+BIP,could you help me creating an account?,ACCOUNT,create_account,10,0
+BILQ,can uhelp me modify the address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BILQ,how do I correct the info on my user account?,ACCOUNT,edit_account,14,0
+BI,is there a section to submit some feedback?,FEEDBACK,review,22,4
+BIMP,how could I get refunds?,REFUND,get_refund,16,9
+BM,I missed some items,ORDER,change_order,1,7
+BM,I want help to get the invoice from 6 purchases ago,INVOICE,get_invoice,15,5
+B,I try to check in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+BELMQZ,i do not know how i can se the withdrawal fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BCELQZ,"I canno remember my key, want help to reset it",ACCOUNT,recover_password,20,0
+BM,I need to add some items to an order,ORDER,change_order,1,7
+B,I want assistance to track my last order,ORDER,track_order,25,7
+B,I want help to solve a payment issue,PAYMENT,payment_issue,18,8
+B,I try to change my last order,ORDER,change_order,1,7
+BIP,where could I track the last order?,ORDER,track_order,25,7
+BI,where to check my order ETA?,ORDER,track_order,25,7
+B,I am trying to talk to an agent,CONTACT,contact_human_agent,9,2
+B,I need help talking to an agent,CONTACT,contact_human_agent,9,2
+BELQ,i do not know what i have to do to correct the user data,ACCOUNT,edit_account,14,0
+BLQ,i try to report a sign-up error,ACCOUNT,registration_problems,21,0
+BM,help to report payment issues,PAYMENT,payment_issue,18,8
+BL,I try to notify of a signup issue,ACCOUNT,registration_problems,21,0
+BI,how can I get information about a forgotten password?,ACCOUNT,recover_password,20,0
+BIMP,could you help me to buy some items?,ORDER,place_order,19,7
+BIP,could I contact an agent?,CONTACT,contact_human_agent,9,2
+BELMQZ,i do not know how i can moidfy the details on my account,ACCOUNT,edit_account,14,0
+BIM,how can I buy some items?,ORDER,place_order,19,7
+B,help checking under what circumstances can I ask for refunds,REFUND,check_refund_policy,6,9
+B,help me cancelling the last order I have made,ORDER,cancel_order,0,7
+B,help me checking your allowed payment methods,PAYMENT,check_payment_methods,5,8
+B,I want help changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIL,can I open a different online account?,ACCOUNT,create_account,10,0
+BIM,can you help me report an issue with payments?,PAYMENT,payment_issue,18,8
+BIP,could you help me report an issue with payment?,PAYMENT,payment_issue,18,8
+B,I don't know how to contact an agent,CONTACT,contact_human_agent,9,2
+BM,I have got to check what options for delivery I have,DELIVERY,delivery_options,12,3
+BM,I don't know what to do to report registration issues,ACCOUNT,registration_problems,21,0
+BM,I need help buying a few of your item,ORDER,place_order,19,7
+BI,how can I edit my personal information?,ACCOUNT,edit_account,14,0
+BKM,checking invoices from last purchase,INVOICE,check_invoice,4,5
+BLQ,need assistance creating a gold account for my fiance,ACCOUNT,create_account,10,0
+BCELZ,"I have not signed up, I need help to oopen a user account",ACCOUNT,create_account,10,0
+BM,help me checking the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I have to buy a few of your item,ORDER,place_order,19,7
+B,help tracking my order,ORDER,track_order,25,7
+BIL,how to see at what time customer assistance available is?,CONTACT,contact_customer_service,8,2
+B,I need assistance setting another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLZ,help opening a new user acocunt for my daughter,ACCOUNT,create_account,10,0
+BLQZ,wanna check the cancellationcharge,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIM,can you give me information about cancelling orders?,ORDER,cancel_order,0,7
+BEM,I do not know what I have to do to get the invoices,INVOICE,get_invoice,15,5
+B,I want help to check your refund policy,REFUND,check_refund_policy,6,9
+BM,I want help getting refunds of money,REFUND,get_refund,16,9
+BM,problems with a forgotten password,ACCOUNT,recover_password,20,0
+BM,assistance to solve issues with payment,PAYMENT,payment_issue,18,8
+BL,I want help to see what payment options are allowed,PAYMENT,check_payment_methods,5,8
+BL,I don't know how to open a user account,ACCOUNT,create_account,10,0
+B,help setting up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIP,could you help me submitting some feedback for a service?,FEEDBACK,review,22,4
+BLQ,want assistance to check what payment methods are allowed,PAYMENT,check_payment_methods,5,8
+B,I want help submitting some feedback for your company,FEEDBACK,review,22,4
+BIP,how could I leave a review for a service?,FEEDBACK,review,22,4
+BIP,how could I check when will my item arrive?,DELIVERY,delivery_period,13,3
+BE,I do not know how to check the status of the refund,REFUND,track_refund,26,9
+BL,I want help to contact customer support,CONTACT,contact_customer_service,8,2
+B,I want help to check my refund status,REFUND,track_refund,26,9
+BIMP,could you help me to report an issue with payments?,PAYMENT,payment_issue,18,8
+BL,I need help to file a customer claim against your business,FEEDBACK,complaint,7,4
+BMP,I don't know how I could report payment issues,PAYMENT,payment_issue,18,8
+BLZ,I wan to chat with someone,CONTACT,contact_human_agent,9,2
+B,I don't know how I can check my order ETA,ORDER,track_order,25,7
+BIM,can you help me get refunds?,REFUND,get_refund,16,9
+BIL,is it possible to switch to a new user profile?,ACCOUNT,switch_account,24,0
+BM,tell me about the delivery periods,DELIVERY,delivery_period,13,3
+BKL,show early exit penalty,CANCELLATION_FEE,check_cancellation_fee,3,1
+BEM,I do not know what I need to do to buy several of your item,ORDER,place_order,19,7
+BIP,where could I check when my item is going to arrive?,DELIVERY,delivery_period,13,3
+B,information about unsubscribing to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BM,I want to know about user account deletions,ACCOUNT,delete_account,11,0
+B,I don't know how I can subscribe to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BE,I do not know what I have to do to switch user,ACCOUNT,switch_account,24,0
+B,I can't check the refund status,REFUND,track_refund,26,9
+BL,I have to report a sign-up error,ACCOUNT,registration_problems,21,0
+BLZ,I don't know what I nee to do to call customer service,CONTACT,contact_customer_service,8,2
+BLQ,i want help to unsubscribe to ur newsletter,NEWSLETTER,newsletter_subscription,17,6
+BLQ,i need assistance to get in touch with customer support,CONTACT,contact_customer_service,8,2
+BM,tell me more about the delivery periods,DELIVERY,delivery_period,13,3
+B,my shipping address has changed,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIMP,how could I get information about forgotten passwords?,ACCOUNT,recover_password,20,0
+BIL,how can I find information about my PIN code retrieval?,ACCOUNT,recover_password,20,0
+BK,getting invoice from last purchase,INVOICE,get_invoice,15,5
+BLQ,i have a trouble trying to modify the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want to set up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,I want assistance to get the invoices from March,INVOICE,get_invoice,15,5
+B,I have got to delete my account,ACCOUNT,delete_account,11,0
+BM,help me to check the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need help to cancel the last order I have made,ORDER,cancel_order,0,7
+BI,how can I report an issue with payment?,PAYMENT,payment_issue,18,8
+BI,how can I get information about a shipping address change?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,can you help me cancel the order I made?,ORDER,cancel_order,0,7
+BLQ,tell me about cancel the subscription to ur newsletter,NEWSLETTER,newsletter_subscription,17,6
+BI,can you help me to cancel an order I made?,ORDER,cancel_order,0,7
+B,I need assistance to set up a new shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,I have problems with cancelling an order I have made,ORDER,cancel_order,0,7
+BL,help me lodging a complaint against your organization,FEEDBACK,complaint,7,4
+B,I need assistance editing the information on my account,ACCOUNT,edit_account,14,0
+BI,how to check at what time customer service available is?,CONTACT,contact_customer_service,8,2
+BCELQZ,"I am not an member yet, need help to register",ACCOUNT,create_account,10,0
+BELZ,I cannot  cancel my corporate newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I want assistance to check the delivery options,DELIVERY,delivery_options,12,3
+BILZ,what do I need to do to lodhe a reclamation?,FEEDBACK,complaint,7,4
+BELQZ,I do not knbow how to correct the info on my profile,ACCOUNT,edit_account,14,0
+BI,can you help me to submit some feedback?,FEEDBACK,review,22,4
+BE,I do not know how to track my order,ORDER,track_order,25,7
+BEM,I do not know how to get refunds of money,REFUND,get_refund,16,9
+BE,I do not know how I can edit my personal information,ACCOUNT,edit_account,14,0
+B,I have got to add an item,ORDER,change_order,1,7
+BM,I need help to add several items,ORDER,change_order,1,7
+BKL,make customer claim,FEEDBACK,complaint,7,4
+BI,how do I set a different shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BE,I cannot find the invoice from last month,INVOICE,check_invoice,4,5
+B,I want help to switch to another account,ACCOUNT,switch_account,24,0
+BILQ,how to modify my personal info?,ACCOUNT,edit_account,14,0
+BM,assistance to report issues with payment,PAYMENT,payment_issue,18,8
+BELQW,i do not know what to do to update the fucking user info,ACCOUNT,edit_account,14,0
+BIP,could you help me check the delivery options?,DELIVERY,delivery_options,12,3
+B,I want to check how long refunds usually take,REFUND,check_refund_policy,6,9
+B,I don't know what to do to track the refund,REFUND,track_refund,26,9
+B,I am trying to leave a review,FEEDBACK,review,22,4
+B,I don't know what I have to do to track my order,ORDER,track_order,25,7
+BI,where do I check my refund status?,REFUND,track_refund,26,9
+BP,I don't know how I could switch to another account,ACCOUNT,switch_account,24,0
+B,help reporting a registration issue,ACCOUNT,registration_problems,21,0
+BI,how much does it cost to break the contract?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIP,how could I get my invoice?,INVOICE,get_invoice,15,5
+B,I need help to check your money back policy,REFUND,check_refund_policy,6,9
+B,help to track my order,ORDER,track_order,25,7
+BI,is it possible to contact an agent?,CONTACT,contact_human_agent,9,2
+BI,is it possible to submit some feedback for a service?,FEEDBACK,review,22,4
+B,help me tracking the last order,ORDER,track_order,25,7
+BCEL,"I do not need this user profile, I have to use the other one",ACCOUNT,switch_account,24,0
+BP,I don't know how I could track the refund,REFUND,track_refund,26,9
+BI,how to buy something?,ORDER,place_order,19,7
+BKM,getting invoice from 1 purchases ago,INVOICE,get_invoice,15,5
+BI,what do I have to do to check the cancellation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,assistance to check what options for delivery are available,DELIVERY,delivery_options,12,3
+BK,delivery period,DELIVERY,delivery_period,13,3
+BLM,I don't know what to do to see the early exit charges,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIMP,where could I check what delivery options I have?,DELIVERY,delivery_options,12,3
+BIP,could you help me editing the information on my account?,ACCOUNT,edit_account,14,0
+BE,I do not know what to do to submit some feedback,FEEDBACK,review,22,4
+B,I have got to check my refund status,REFUND,track_refund,26,9
+B,I need help to edit my personal information,ACCOUNT,edit_account,14,0
+BL,give me information about the PIN code recovery,ACCOUNT,recover_password,20,0
+B,help deleting my account,ACCOUNT,delete_account,11,0
+BCEILQZ,i do not  use this user how can i change to the other one,ACCOUNT,switch_account,24,0
+BCLMQ,need to see the termination fees help me,CANCELLATION_FEE,check_cancellation_fee,3,1
+BL,support regarding our user signup,ACCOUNT,registration_problems,21,0
+BE,I do not know what to do to check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIP,how could I switch user?,ACCOUNT,switch_account,24,0
+BK,check invoice from last month,INVOICE,check_invoice,4,5
+BCILQZ,need to creae a different online account how can i do it,ACCOUNT,create_account,10,0
+B,help changing an order I made,ORDER,change_order,1,7
+B,I have got to check in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+B,I need help filing a complaint,FEEDBACK,complaint,7,4
+BI,what do I have to do to get my invoice?,INVOICE,get_invoice,15,5
+B,I don't know how I can delete an account,ACCOUNT,delete_account,11,0
+BI,can you help me report a registration issue?,ACCOUNT,registration_problems,21,0
+BM,I am trying to check the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BKM,checking invoices,INVOICE,check_invoice,4,5
+BI,what do I need to do to get the invoice from July?,INVOICE,get_invoice,15,5
+BI,can you help me set a new shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,assistance to check the refund status,REFUND,track_refund,26,9
+BLQ,want help seeing the withdrawal fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I need to set a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,show me the invoices from 8 months ago,INVOICE,check_invoice,4,5
+BELQ,i do not know how i can check the allowed payment options,PAYMENT,check_payment_methods,5,8
+B,assistance contacting customer service,CONTACT,contact_customer_service,8,2
+B,registration help,ACCOUNT,registration_problems,21,0
+BIL,how to change the personal data?,ACCOUNT,edit_account,14,0
+BM,help me check what options for delivery I have,DELIVERY,delivery_options,12,3
+BIM,is it possible to report issues with payments?,PAYMENT,payment_issue,18,8
+B,help me setting a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I want help to remove an item from an order,ORDER,change_order,1,7
+B,issue setting another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIP,would it be possible to cancel my order?,ORDER,cancel_order,0,7
+BQ,i want assistance contacting customer service,CONTACT,contact_customer_service,8,2
+BIMP,could you help me reporting registration issues?,ACCOUNT,registration_problems,21,0
+B,assistance tracking my order,ORDER,track_order,25,7
+B,I don't know how I can report a payment issue,PAYMENT,payment_issue,18,8
+BLQ,i want assistance listing ur payment methods,PAYMENT,check_payment_methods,5,8
+B,I want assistance getting a refund,REFUND,get_refund,16,9
+B,I want help checking the delivery options,DELIVERY,delivery_options,12,3
+BKM,check invoices from 2 months ago,INVOICE,check_invoice,4,5
+B,help me file a complaint against your business,FEEDBACK,complaint,7,4
+BI,can I check if there is anything wrong with my refund?,REFUND,track_refund,26,9
+BKM,check invoices from nine purchases ago,INVOICE,check_invoice,4,5
+BI,how can I switch to another account?,ACCOUNT,switch_account,24,0
+BCELQ,i do not understand ya help me to speak to a human agent,CONTACT,contact_human_agent,9,2
+BI,how do I take a quick look at the invoice?,INVOICE,check_invoice,4,5
+B,I need information about the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I don't know how I can check the status of the refund,REFUND,track_refund,26,9
+BM,I want to report registration issues,ACCOUNT,registration_problems,21,0
+BLZ,assistance to file a complaint against your organizxation,FEEDBACK,complaint,7,4
+B,I want an agent,CONTACT,contact_human_agent,9,2
+BELQ,i do not know how i can change to a new profile,ACCOUNT,switch_account,24,0
+B,I have got to switch to another account,ACCOUNT,switch_account,24,0
+B,tell me more about a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I don't know how to remove an item from an order,ORDER,change_order,1,7
+BLM,I have troubles trying to modify the address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want to get the invoice,INVOICE,get_invoice,15,5
+B,I have a problem with canceling the order I have made,ORDER,cancel_order,0,7
+B,I want to know more about delivery periods,DELIVERY,delivery_period,13,3
+B,I have put my old address by mistake,SHIPPING_ADDRESS,change_shipping_address,2,10
+BEM,I do not know how I can buy some of your item,ORDER,place_order,19,7
+BLMZ,I need to change osme of my user details,ACCOUNT,edit_account,14,0
+B,assistance cancelling my last order,ORDER,cancel_order,0,7
+BE,why I cannot set up another shipping address valid,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,assistance submitting some feedback for your services,FEEDBACK,review,22,4
+B,I don't know how I can change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIM,where to check if there is any updates on my refund?,REFUND,track_refund,26,9
+BI,can you help me to leave a review for your company?,FEEDBACK,review,22,4
+B,I don't know what to do to get the invoice,INVOICE,get_invoice,15,5
+B,I need help with canceling the order I have made,ORDER,cancel_order,0,7
+B,help me to talk to an agent,CONTACT,contact_human_agent,9,2
+BIM,where do I buy several items?,ORDER,place_order,19,7
+B,I need assistance filing a complaint against your business,FEEDBACK,complaint,7,4
+B,I want to check your refund policy,REFUND,check_refund_policy,6,9
+BM,assistance with changing several items of an order,ORDER,change_order,1,7
+BI,how to talk to an agent?,CONTACT,contact_human_agent,9,2
+BM,I have to check the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I am calling to file a complaint,FEEDBACK,complaint,7,4
+BIL,how to change to another user profile?,ACCOUNT,switch_account,24,0
+BM,I need assistance finding the invoice from 4 purchases ago,INVOICE,check_invoice,4,5
+BM,question about canceling my orders,ORDER,cancel_order,0,7
+BIM,can you help me to solve an issue with payments?,PAYMENT,payment_issue,18,8
+BILZ,how can I check the termniation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I do not want to pay for the last order I have made,ORDER,cancel_order,0,7
+BM,I want help to find the invoices from my last purchase,INVOICE,check_invoice,4,5
+BI,how to check the status of the refund?,REFUND,track_refund,26,9
+B,I want assistance contacting customer service,CONTACT,contact_customer_service,8,2
+BL,I try to file a claim against your organization,FEEDBACK,complaint,7,4
+BM,I have got to get the invoices from my last purchase,INVOICE,get_invoice,15,5
+BL,I need help making a reclamation against your company,FEEDBACK,complaint,7,4
+BILQZ,how can i get information abuot my lost pin,ACCOUNT,recover_password,20,0
+B,I don't know what I have to do to contact an agent,CONTACT,contact_human_agent,9,2
+BLQ,i try to create a user account for my dad,ACCOUNT,create_account,10,0
+BIP,could I switch to another account?,ACCOUNT,switch_account,24,0
+BIM,can you help me reporting payment issues?,PAYMENT,payment_issue,18,8
+B,I have to set a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIP,could you tell me about changing my shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIP,could you help me submit some feedback for a service?,FEEDBACK,review,22,4
+BM,I want help reporting an issue with payments,PAYMENT,payment_issue,18,8
+B,question about cancelling the last order,ORDER,cancel_order,0,7
+B,I want assistance to change the last order,ORDER,change_order,1,7
+BLQ,need assistance to speak with somebody,CONTACT,contact_human_agent,9,2
+B,I have a question about a password recovery,ACCOUNT,recover_password,20,0
+BL,I have got to edit the address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,can you help me finding my invoice?,INVOICE,check_invoice,4,5
+B,I don't know what I need to do to track an order,ORDER,track_order,25,7
+B,I have to report an issue with payment,PAYMENT,payment_issue,18,8
+BI,how do I track an order?,ORDER,track_order,25,7
+BIMP,could you help me to get the invoices from July?,INVOICE,get_invoice,15,5
+BIL,where to see what hours I can reach customer assistance?,CONTACT,contact_customer_service,8,2
+BL,assistance to receive the company newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,I don't know what to do to check your refund policy,REFUND,check_refund_policy,6,9
+B,I have to check what payment methods are available,PAYMENT,check_payment_methods,5,8
+BCELQZ,"I do not have a user account , need assistance creating one",ACCOUNT,create_account,10,0
+B,I want assistance tracking my order,ORDER,track_order,25,7
+B,I can't set another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,assistance to submit some feedback for your services,FEEDBACK,review,22,4
+BIL,can you help me to unsubscribe from the newsletter?,NEWSLETTER,newsletter_subscription,17,6
+BI,what time is customer service available?,CONTACT,contact_customer_service,8,2
+BI,can you help me solve an issue with payment?,PAYMENT,payment_issue,18,8
+B,assistance to cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BI,where can I set up a new shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,can you help me contact customer service?,CONTACT,contact_customer_service,8,2
+BI,is it possible to check my invoice?,INVOICE,check_invoice,4,5
+BILQ,what do i need to do to notify of a sign-up problem,ACCOUNT,registration_problems,21,0
+BIM,how do I report registration issues?,ACCOUNT,registration_problems,21,0
+BILZ,is it possible to switch to my  new account?,ACCOUNT,switch_account,24,0
+B,I want assistance to set up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,I need assistance getting refunds,REFUND,get_refund,16,9
+BIL,can you help me recover the key of my account?,ACCOUNT,recover_password,20,0
+BI,can you help me filing a complaint against your business?,FEEDBACK,complaint,7,4
+B,complaint,FEEDBACK,complaint,7,4
+BM,help me to solve payment issues,PAYMENT,payment_issue,18,8
+BIP,could you help me file a complaint?,FEEDBACK,complaint,7,4
+B,help checking what payment methods you accept,PAYMENT,check_payment_methods,5,8
+BI,where to buy something?,ORDER,place_order,19,7
+BM,I am trying to get refunds,REFUND,get_refund,16,9
+BP,I would like to check my order ETA,ORDER,track_order,25,7
+B,I don't know how to cancel my last order,ORDER,cancel_order,0,7
+BEM,I do not know what to do to buy some items,ORDER,place_order,19,7
+BI,is it possible to leave a review for your company?,FEEDBACK,review,22,4
+B,I don't know how to switch to another account,ACCOUNT,switch_account,24,0
+BP,I don't know how I could recover my password,ACCOUNT,recover_password,20,0
+B,help submitting some feedback for your company,FEEDBACK,review,22,4
+BI,can you help me to edit my personal information?,ACCOUNT,edit_account,14,0
+BIM,where to check what options for delivery you offer?,DELIVERY,delivery_options,12,3
+BIM,where to take a quick look at the invoices from May?,INVOICE,check_invoice,4,5
+B,I don't know how to check my refund status,REFUND,track_refund,26,9
+BELQ,I'm looking for information about my pass retrieval,ACCOUNT,recover_password,20,0
+BKM,getting invoices from July,INVOICE,get_invoice,15,5
+B,I want assistance switching user,ACCOUNT,switch_account,24,0
+BL,I call to make a customer claim,FEEDBACK,complaint,7,4
+BE,I cannot track an order,ORDER,track_order,25,7
+BIMP,where could I get information about order cancellations?,ORDER,cancel_order,0,7
+BI,can I create an account?,ACCOUNT,create_account,10,0
+BEL,I do not know how to open another user account,ACCOUNT,create_account,10,0
+BLQ,help to file a customer claim against ur business,FEEDBACK,complaint,7,4
+B,problem with canceling my last order,ORDER,cancel_order,0,7
+BE,I cannot find my invoice,INVOICE,check_invoice,4,5
+BM,help reporting registration issues,ACCOUNT,registration_problems,21,0
+BM,I need help to get the invoices from my last purchase,INVOICE,get_invoice,15,5
+BIMP,will you show me the invoice from 6 months ago?,INVOICE,check_invoice,4,5
+BM,problems with a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIM,how do I buy some items?,ORDER,place_order,19,7
+BZ,I don'tknow what to do to talk to an agent,CONTACT,contact_human_agent,9,2
+B,I have to check how soon can I expect the item,DELIVERY,delivery_period,13,3
+BM,assistance to report registration issues,ACCOUNT,registration_problems,21,0
+BEP,I do not know how I could get my money back,REFUND,get_refund,16,9
+BP,I would like to delete an account,ACCOUNT,delete_account,11,0
+BL,I want assistance to list the allowed payment methods,PAYMENT,check_payment_methods,5,8
+BM,assistance to check the invoices from last month,INVOICE,check_invoice,4,5
+B,I need assistance checking your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BI,how can I submit some feedback for a service?,FEEDBACK,review,22,4
+BIMP,how could I get the invoices from last month?,INVOICE,get_invoice,15,5
+BM,I have problems with cancelling orders,ORDER,cancel_order,0,7
+B,I want to check how long refunds take,REFUND,check_refund_policy,6,9
+BI,can I contact customer service?,CONTACT,contact_customer_service,8,2
+BKLZ,open acconut for wife,ACCOUNT,create_account,10,0
+BL,assistance cancelling the newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+B,I don't know how I can submit some feedback,FEEDBACK,review,22,4
+B,I try to check how long refunds usually take,REFUND,check_refund_policy,6,9
+B,I need to delete an account,ACCOUNT,delete_account,11,0
+BIP,could you help me set a different shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BI,can you help me using another account?,ACCOUNT,switch_account,24,0
+BK,adding product to last order,ORDER,change_order,1,7
+BI,can I report a registration issue?,ACCOUNT,registration_problems,21,0
+BK,order change,ORDER,change_order,1,7
+BIP,where could I report a payment issue?,PAYMENT,payment_issue,18,8
+BLQ,help to retrieve my online account pwd,ACCOUNT,recover_password,20,0
+BI,what do I need to do to leave a review?,FEEDBACK,review,22,4
+BILQ,can utell me about cancel the subscription to the newsletter,NEWSLETTER,newsletter_subscription,17,6
+BIMP,could you help me check the invoice from eleven months ago?,INVOICE,check_invoice,4,5
+BEM,I am trying to find the delivery periods,DELIVERY,delivery_period,13,3
+B,I try to check your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BIM,can you help me to buy some of your item?,ORDER,place_order,19,7
+BI,can I check what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BIM,what do I have to do to buy several items?,ORDER,place_order,19,7
+BILQ,can uhelp me open a new user account,ACCOUNT,create_account,10,0
+BIP,could you help me check in what cases can I ask for refunds?,REFUND,check_refund_policy,6,9
+BK,help with payment,PAYMENT,payment_issue,18,8
+BIP,could you help me set another shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,anyone available in customer service,CONTACT,contact_customer_service,8,2
+B,assistance checking the options for delivery,DELIVERY,delivery_options,12,3
+BIM,how do I report an issue with payments?,PAYMENT,payment_issue,18,8
+B,I need to check what hours customer service available is,CONTACT,contact_customer_service,8,2
+B,I am calling to check when will my item arrive,DELIVERY,delivery_period,13,3
+BCILQ,"someone stole my user account pass, where do I recover it?",ACCOUNT,recover_password,20,0
+BEP,I do not know how I could remove an item from an order,ORDER,change_order,1,7
+BIM,how can I check the invoice from ten purchases ago?,INVOICE,check_invoice,4,5
+BIM,can you help me adding some items to an order?,ORDER,change_order,1,7
+BIP,could you help me edit the information on my account?,ACCOUNT,edit_account,14,0
+BIMP,could you send me the invoices from one purchases ago?,INVOICE,get_invoice,15,5
+BL,I have got to reset my key,ACCOUNT,recover_password,20,0
+BLZ,I do't know what to do to talk to a human agent,CONTACT,contact_human_agent,9,2
+B,I need help switching to another account,ACCOUNT,switch_account,24,0
+B,I need assistance deleting an account,ACCOUNT,delete_account,11,0
+B,question about changing the order I made,ORDER,change_order,1,7
+BCEILQZ,ino longer want this user account how can i use the new one,ACCOUNT,switch_account,24,0
+BIM,can you help me reporting registration issues?,ACCOUNT,registration_problems,21,0
+BM,I have got to check what delivery options I have,DELIVERY,delivery_options,12,3
+BIP,could I report a registration issue?,ACCOUNT,registration_problems,21,0
+BLQW,i want assistance filing a bloody claim,FEEDBACK,complaint,7,4
+BK,editing personal information,ACCOUNT,edit_account,14,0
+BELZ,I cannot update my delivery addrses,SHIPPING_ADDRESS,change_shipping_address,2,10
+BCELQZ,uare not helpful i wanmt help to speak with a person,CONTACT,contact_human_agent,9,2
+BI,how to contact customer service?,CONTACT,contact_customer_service,8,2
+B,I want help deleting my account,ACCOUNT,delete_account,11,0
+BIM,where to report registration issues?,ACCOUNT,registration_problems,21,0
+BIM,can I get the invoices?,INVOICE,get_invoice,15,5
+BIMP,could you tell me more about the delivery periods?,DELIVERY,delivery_period,13,3
+B,I need help contacting an agent,CONTACT,contact_human_agent,9,2
+B,I don't know how I can add an item,ORDER,change_order,1,7
+BELQZ,i do not know what to do to correct the personal ingo,ACCOUNT,edit_account,14,0
+B,help me to get my money back,REFUND,get_refund,16,9
+B,assistance to remove an item,ORDER,change_order,1,7
+BIL,can you help me to change the user information?,ACCOUNT,edit_account,14,0
+BI,where do I check your allowed payment methods?,PAYMENT,check_payment_methods,5,8
+B,registering,ACCOUNT,create_account,10,0
+B,I have to talk to an agent,CONTACT,contact_human_agent,9,2
+B,I need help checking the options for delivery,DELIVERY,delivery_options,12,3
+BP,I don't know how I could buy an item,ORDER,place_order,19,7
+BE,I cannot set up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BELZ,I do not know how to recover my acecss key,ACCOUNT,recover_password,20,0
+BIM,can you send me the invoices from last month?,INVOICE,get_invoice,15,5
+BIMP,could you help me add several items?,ORDER,change_order,1,7
+BL,I can't chat with an operator,CONTACT,contact_human_agent,9,2
+BKM,check invoices,INVOICE,check_invoice,4,5
+B,I want assistance checking how long the delivery takes,DELIVERY,delivery_period,13,3
+B,check under what circumstances can I ask for refunds,REFUND,check_refund_policy,6,9
+BM,I need assistance with removing several items from an order,ORDER,change_order,1,7
+BIM,where can I get refunds?,REFUND,get_refund,16,9
+BI,what do I have to do to switch to another account?,ACCOUNT,switch_account,24,0
+BI,can I check what payment methods are available?,PAYMENT,check_payment_methods,5,8
+BCELQZ,"you are not helpful, want assistance contactig an assistant",CONTACT,contact_human_agent,9,2
+BMP,I would like to find the invoices,INVOICE,check_invoice,4,5
+B,help me deleting an account,ACCOUNT,delete_account,11,0
+BKM,checking invoices from last month,INVOICE,check_invoice,4,5
+B,I need to change the last order,ORDER,change_order,1,7
+BEM,I do not know how to report issues with payments,PAYMENT,payment_issue,18,8
+B,tell me more about a user account deletion,ACCOUNT,delete_account,11,0
+BLQ,want assistance trying to correct my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I can't pay for the last order I have made,ORDER,cancel_order,0,7
+BM,assistance to check what delivery options I can choose,DELIVERY,delivery_options,12,3
+BI,can you help me to create an account?,ACCOUNT,create_account,10,0
+BLQ,i want assistance to create a new standard account,ACCOUNT,create_account,10,0
+B,help changing an item of an order,ORDER,change_order,1,7
+B,I need help to check my order ETA,ORDER,track_order,25,7
+BI,is it possible to check what payment methods are available?,PAYMENT,check_payment_methods,5,8
+B,help me cancelling my last order,ORDER,cancel_order,0,7
+BI,can I set another shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BP,I would like information about a forgotten password,ACCOUNT,recover_password,20,0
+BL,there is an issue updating my delivery address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,what do I have to do to change the shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIL,where can I switch to my new profile?,ACCOUNT,switch_account,24,0
+B,I want help checking your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BILQ,how can i speak with an assistant,CONTACT,contact_human_agent,9,2
+BL,I need help checking the allowed payment options,PAYMENT,check_payment_methods,5,8
+B,assistance to delete the account,ACCOUNT,delete_account,11,0
+BEL,I do not know what to do to speak to customer service,CONTACT,contact_customer_service,8,2
+BM,I have problems with removing something from an order,ORDER,change_order,1,7
+BK,contact customer service,CONTACT,contact_customer_service,8,2
+BILZ,what do I need to do to recover the PIN of my accounmt?,ACCOUNT,recover_password,20,0
+BI,can you help me check your allowed payment methods?,PAYMENT,check_payment_methods,5,8
+BE,I cannot pay for my last order,ORDER,cancel_order,0,7
+B,help me check what payment methods are available,PAYMENT,check_payment_methods,5,8
+BM,I need help checking what delivery options you offer,DELIVERY,delivery_options,12,3
+BE,I do not know how I can change my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BIL,can you help me see the withdrawal fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BE,I do not know what I need to do to get a refund of money,REFUND,get_refund,16,9
+BE,I cannot report a registration issue,ACCOUNT,registration_problems,21,0
+BIP,where could I check what payment methods are available?,PAYMENT,check_payment_methods,5,8
+BI,where to check the status of my order?,ORDER,track_order,25,7
+B,I need help to make a purchase,ORDER,place_order,19,7
+B,assistance checking the refund status,REFUND,track_refund,26,9
+BIP,where could I submit some feedback for your company?,FEEDBACK,review,22,4
+BIP,could you help me file a complaint against your business?,FEEDBACK,complaint,7,4
+BM,checking cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me solving a payment issue?,PAYMENT,payment_issue,18,8
+BE,I do not know how to buy something,ORDER,place_order,19,7
+B,help me get a refund of money,REFUND,get_refund,16,9
+BIP,could you help me cancelling an order I made?,ORDER,cancel_order,0,7
+B,I want assistance to check your refund policy,REFUND,check_refund_policy,6,9
+BI,what do I have to do to edit the information on my account?,ACCOUNT,edit_account,14,0
+B,I don't know how I can recover my password,ACCOUNT,recover_password,20,0
+B,I don't know what to do to get a refund,REFUND,get_refund,16,9
+BI,can you help me to edit the information on my account?,ACCOUNT,edit_account,14,0
+B,I have got to cancel the last order I made,ORDER,cancel_order,0,7
+BM,help to check what delivery options I have,DELIVERY,delivery_options,12,3
+BIQ,can uhelp me check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help me checking what payment methods are available,PAYMENT,check_payment_methods,5,8
+BIP,could you send me the invoice from my last purchase?,INVOICE,get_invoice,15,5
+B,I have chosen a wrong shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,is it possible to create an account?,ACCOUNT,create_account,10,0
+B,help canceling the last order,ORDER,cancel_order,0,7
+BL,I have got to talk to a human agent,CONTACT,contact_human_agent,9,2
+BI,can you help me leaving a review?,FEEDBACK,review,22,4
+BL,information about updating my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BM,I want assistance checking what delivery options I have,DELIVERY,delivery_options,12,3
+B,I want help to leave a review for your services,FEEDBACK,review,22,4
+B,I need to check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BLQ,help to receive ur newsletter,NEWSLETTER,newsletter_subscription,17,6
+BM,I want help adding some items to an order,ORDER,change_order,1,7
+BL,I need help to see the available payment methods,PAYMENT,check_payment_methods,5,8
+B,I try to subscribe to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BL,I need help changing to another account,ACCOUNT,switch_account,24,0
+BMP,I don't know how I could add some items,ORDER,change_order,1,7
+BI,can you send me my invoice?,INVOICE,get_invoice,15,5
+BI,what do I need to do to check the status of my order?,ORDER,track_order,25,7
+B,I have to switch user,ACCOUNT,switch_account,24,0
+BIM,can you tell me more about the delivery periods?,DELIVERY,delivery_period,13,3
+BM,buy several of your item,ORDER,place_order,19,7
+B,report an issue with payment,PAYMENT,payment_issue,18,8
+BIL,can you help me to correct the delivery address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BE,I do not know what to do to set up a new shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I have an issue trying to change the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BCELQZ,I'm not happy wiht ur work help me to lodge a complaint,FEEDBACK,complaint,7,4
+B,I want help to delete my account,ACCOUNT,delete_account,11,0
+BE,I am looking for the delivery options,DELIVERY,delivery_options,12,3
+BIP,could I check what hours I can contact customer service?,CONTACT,contact_customer_service,8,2
+BI,can you tell me about the options for delivery?,DELIVERY,delivery_options,12,3
+BI,what do I need to do to change my shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,help me to delete the account,ACCOUNT,delete_account,11,0
+BK,issue with payment,PAYMENT,payment_issue,18,8
+BL,I need assistance switching to another user profile,ACCOUNT,switch_account,24,0
+BI,how do I report a registration issue?,ACCOUNT,registration_problems,21,0
+BP,I would like to know about a user account deletion,ACCOUNT,delete_account,11,0
+BILQ,how to cancel my subscription to the company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BP,I don't know how I could set up another shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I try to get a refund,REFUND,get_refund,16,9
+BM,I want help getting the invoices from my last purchase,INVOICE,get_invoice,15,5
+BMP,I would like to buy a few of your item,ORDER,place_order,19,7
+BE,I do not know what to do to track my last order,ORDER,track_order,25,7
+B,I have a question about the delivery options,DELIVERY,delivery_options,12,3
+BI,can you tell me more about a shipping address change?,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I am trying to check your money back policy,REFUND,check_refund_policy,6,9
+BIM,is it possible to get refunds of money?,REFUND,get_refund,16,9
+BLQ,want assistance to open a user account for my daughter,ACCOUNT,create_account,10,0
+BI,can you help me delete the account?,ACCOUNT,delete_account,11,0
+BCILQ,i have to see ur available payment methods how to do it,PAYMENT,check_payment_methods,5,8
+B,I don't know how I can check the invoice,INVOICE,check_invoice,4,5
+BMP,I don't know how I could find my invoices,INVOICE,check_invoice,4,5
+BIP,would it be possible to contact an agent?,CONTACT,contact_human_agent,9,2
+BIMP,could you help me check the cancellation fees?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I want assistance buying some of your item,ORDER,place_order,19,7
+BL,help changing my address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BEMP,I do not know how I could buy a few of your item,ORDER,place_order,19,7
+BP,I don't know how I could edit the information on my account,ACCOUNT,edit_account,14,0
+BI,is it possible to change the order I have made?,ORDER,change_order,1,7
+BI,where to leave a review for a service?,FEEDBACK,review,22,4
+B,I am trying to leave a review for a service,FEEDBACK,review,22,4
+BL,creating account for daughter,ACCOUNT,create_account,10,0
+BLQ,i need help checking what payment methods are accepted,PAYMENT,check_payment_methods,5,8
+BIMP,where could I check my invoices?,INVOICE,check_invoice,4,5
+B,I need to submit some feedback for a service,FEEDBACK,review,22,4
+BIP,would it be possible to register?,ACCOUNT,create_account,10,0
+BM,I have got to add several items,ORDER,change_order,1,7
+BIP,could you send me the invoice from last month?,INVOICE,get_invoice,15,5
+BP,I don't know how I could set up a new shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,make an order,ORDER,place_order,19,7
+BILQ,where to file a consumer complaint against ur business,FEEDBACK,complaint,7,4
+B,help me to cancel the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BIM,can you help me to report issues with payments?,PAYMENT,payment_issue,18,8
+B,I want assistance to check the cancellation fee,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,how do I set up a new shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BCILQ,i have got to contact customer assistance how to do it,CONTACT,contact_customer_service,8,2
+B,I need help with adding an item to an order,ORDER,change_order,1,7
+B,I don't know what to do to track my last order,ORDER,track_order,25,7
+BE,I do not know what to do to track an order,ORDER,track_order,25,7
+BLQ,I'm trying to open a different account for my dad,ACCOUNT,create_account,10,0
+B,I am trying to submit some feedback,FEEDBACK,review,22,4
+BE,I do not know how to check your money back policy,REFUND,check_refund_policy,6,9
+BIP,could you help me getting a refund of money?,REFUND,get_refund,16,9
+BMP,I don't know how I could buy several of your item,ORDER,place_order,19,7
+BL,I don't know how to open a different account for my dad,ACCOUNT,create_account,10,0
+BLQZ,i want assistanceto check the available payment methods,PAYMENT,check_payment_methods,5,8
+BI,how can I set up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BIP,could you help me checking how long refunds usually take?,REFUND,check_refund_policy,6,9
+B,I need help regarding the registration,ACCOUNT,registration_problems,21,0
+B,help me checking the status of my order,ORDER,track_order,25,7
+BM,I need assistance to solve issues with payment,PAYMENT,payment_issue,18,8
+BIP,could I check if there is anything new on my refund?,REFUND,track_refund,26,9
+B,find information about changing my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,can you help me check the cancellation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,assistance buying some items,ORDER,place_order,19,7
+B,I want information about the delivery options,DELIVERY,delivery_options,12,3
+BIP,how could I report a registration issue?,ACCOUNT,registration_problems,21,0
+BIMP,will you show me the invoices from nine purchases ago?,INVOICE,check_invoice,4,5
+BM,problems with the delivery options,DELIVERY,delivery_options,12,3
+BEM,I do not know how I can get the invoices from ten months ago,INVOICE,get_invoice,15,5
+BIMP,could you help me get refunds?,REFUND,get_refund,16,9
+BIL,how to file a consumer claim?,FEEDBACK,complaint,7,4
+BIM,can you help me solve payment issues?,PAYMENT,payment_issue,18,8
+BL,I want assistance speaking with an operator,CONTACT,contact_human_agent,9,2
+BM,I can't remove some items,ORDER,change_order,1,7
+BI,is it possible to check what payment methods you accept?,PAYMENT,check_payment_methods,5,8
+BM,I don't know how I can report an issue with payments,PAYMENT,payment_issue,18,8
+BIM,where to find the invoices from February?,INVOICE,check_invoice,4,5
+BI,is it possible to find the invoice from November?,INVOICE,check_invoice,4,5
+BIM,can you help me solving issues with payments?,PAYMENT,payment_issue,18,8
+BI,is it possible to get a refund?,REFUND,get_refund,16,9
+BE,I do not know what I need to do to check your refund policy,REFUND,check_refund_policy,6,9
+BM,assistance checking what options for delivery you offer,DELIVERY,delivery_options,12,3
+BL,I want help opening a different gold account for my fiance,ACCOUNT,create_account,10,0
+BLZ,I  try to sign up to the company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BE,I do not know how I can check your allowed payment methods,PAYMENT,check_payment_methods,5,8
+B,help getting a refund,REFUND,get_refund,16,9
+BP,I would like to file a complaint against your business,FEEDBACK,complaint,7,4
+BIL,where can I get information about the PIN code recovery?,ACCOUNT,recover_password,20,0
+B,help me edit my account,ACCOUNT,edit_account,14,0
+B,I have got to get the invoice from my last purchase,INVOICE,get_invoice,15,5
+BI,where do I check what payment methods are available?,PAYMENT,check_payment_methods,5,8
+BIP,could I track my last order?,ORDER,track_order,25,7
+B,assistance to check in what cases can I ask for refunds,REFUND,check_refund_policy,6,9
+BM,I need to check what delivery options I can choose,DELIVERY,delivery_options,12,3
+BI,where do I check the refund status?,REFUND,track_refund,26,9
+BIM,where do I check what delivery options you offer?,DELIVERY,delivery_options,12,3
+B,I have got to check in what cases can I ask for a refund,REFUND,check_refund_policy,6,9
+BE,I do not know how to set a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,I don't know what I need to do to buy some of your item,ORDER,place_order,19,7
+BIP,would it be possible to report an issue with payment?,PAYMENT,payment_issue,18,8
+B,help setting another shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BLW,I want to unsubscribe from your damn corporate newsletter,NEWSLETTER,newsletter_subscription,17,6
+BI,can I check the cancellation fee?,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I want help getting refunds,REFUND,get_refund,16,9
+B,check in what cases can I ask for my money back,REFUND,check_refund_policy,6,9
+B,I don't know how I can switch to another account,ACCOUNT,switch_account,24,0
+BIP,how could I check the options for delivery?,DELIVERY,delivery_options,12,3
+BM,I want help solving an issue with payments,PAYMENT,payment_issue,18,8
+BI,what do I have to do to get the invoice from last month?,INVOICE,get_invoice,15,5
+BKLMZ,chnage details on profile,ACCOUNT,edit_account,14,0
+BM,I want assistance to remove several items from an order,ORDER,change_order,1,7
+BLQ,receive ur newsletter,NEWSLETTER,newsletter_subscription,17,6
+B,I want help to check your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BM,send me the invoices from my last purchase,INVOICE,get_invoice,15,5
+BIP,could you help me register?,ACCOUNT,create_account,10,0
+B,problem with canceling the last order I have made,ORDER,cancel_order,0,7
+B,I want assistance checking how soon can I expect the item,DELIVERY,delivery_period,13,3
+BIM,can you show me what delivery options you offer?,DELIVERY,delivery_options,12,3
+BEP,I do not know how I could register,ACCOUNT,create_account,10,0
+B,help me get a refund,REFUND,get_refund,16,9
+BCL,"I want to see your allowed payment options, I need help",PAYMENT,check_payment_methods,5,8
+BILZ,can you ehlp me speak with a person?,CONTACT,contact_human_agent,9,2
+B,show me your money back policy,REFUND,check_refund_policy,6,9
+BM,help me check if there is any updates on my refund,REFUND,track_refund,26,9
+BIP,will you tell me what hours customer service available is?,CONTACT,contact_customer_service,8,2
+BI,how can I register?,ACCOUNT,create_account,10,0
+BCEILQZ,i do not understand anything usay can uirect to me somebody,CONTACT,contact_human_agent,9,2
+BL,I don't know how I can update my user account,ACCOUNT,edit_account,14,0
+BP,I would like to leave a review for your company,FEEDBACK,review,22,4
+BI,is it possible to check your refund policy?,REFUND,check_refund_policy,6,9
+BM,show me the cancellation fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I don't know how I can remove several items from an order,ORDER,change_order,1,7
+B,assistance checking how soon can I expect the delivery,DELIVERY,delivery_period,13,3
+B,I want information about delivery period,DELIVERY,delivery_period,13,3
+BM,I have to buy some items,ORDER,place_order,19,7
+BKM,get invoices from nine months ago,INVOICE,get_invoice,15,5
+BM,I need assistance checking what options for delivery I have,DELIVERY,delivery_options,12,3
+B,I need to make a purchase,ORDER,place_order,19,7
+BLM,I need supports trying to update the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I need assistance checking what payment methods you accept,PAYMENT,check_payment_methods,5,8
+B,I need help getting a refund,REFUND,get_refund,16,9
+BI,can I change the order I made?,ORDER,change_order,1,7
+B,I don't know what I have to do to find the invoice,INVOICE,check_invoice,4,5
+BLQZ,i have to use naother user profile,ACCOUNT,switch_account,24,0
+BM,I don't know how to report payment issues,PAYMENT,payment_issue,18,8
+BM,I have got to get the invoices from eleven months ago,INVOICE,get_invoice,15,5
+B,help to switch user,ACCOUNT,switch_account,24,0
+BM,I am trying to get refunds of money,REFUND,get_refund,16,9
+B,I need assistance to report a registration issue,ACCOUNT,registration_problems,21,0
+BL,I want assistance to see the cancellation penalty,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,can you help me to make a purchase?,ORDER,place_order,19,7
+BI,can you help me get a refund of money?,REFUND,get_refund,16,9
+BIM,how to report registration issues?,ACCOUNT,registration_problems,21,0
+B,I want information about changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BM,help me check what delivery options I can choose,DELIVERY,delivery_options,12,3
+BLQZ,i need help cxalling customer support,CONTACT,contact_customer_service,8,2
+BE,I do not know how I can cancel the order I have made,ORDER,cancel_order,0,7
+BM,I want assistance getting refunds of money,REFUND,get_refund,16,9
+B,give me information about a shipping address change,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want help finding the invoice from my last purchase,INVOICE,check_invoice,4,5
+BM,I try to get the invoices,INVOICE,get_invoice,15,5
+BELZ,I cannot corrdct my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,can you help me to cancel my order?,ORDER,cancel_order,0,7
+BP,I would like to change my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BI,how can I check when will my item arrive?,DELIVERY,delivery_period,13,3
+BKM,reporting issue with payments,PAYMENT,payment_issue,18,8
+BIM,where to get the invoice from 5 purchases ago?,INVOICE,get_invoice,15,5
+BLM,checking early termination penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I want help to get the invoices from my last purchase,INVOICE,get_invoice,15,5
+B,I want help cancelling the company newsletter subscription,NEWSLETTER,newsletter_subscription,17,6
+BLMQ,need assistance to check the early exit fees,CANCELLATION_FEE,check_cancellation_fee,3,1
+BIP,could you help me cancel an order?,ORDER,cancel_order,0,7
+BE,I do not know how I can edit my account,ACCOUNT,edit_account,14,0
+BI,how to track the last order?,ORDER,track_order,25,7
+BILMQ,where do i check the early exit penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BM,I have a question about changing my orders,ORDER,change_order,1,7
+B,I don't know how to contact customer service,CONTACT,contact_customer_service,8,2
+B,I need assistance checking your money back policy,REFUND,check_refund_policy,6,9
+BILQ,how do i change to a new profile,ACCOUNT,switch_account,24,0
+B,I need to cancel the subscription to your company newsletter,NEWSLETTER,newsletter_subscription,17,6
+BIM,can you help me to check the invoices from last month?,INVOICE,check_invoice,4,5
+B,give me information about a user account deletion,ACCOUNT,delete_account,11,0
+BK,edit account,ACCOUNT,edit_account,14,0
+BE,I do not know how I can get a refund of money,REFUND,get_refund,16,9
+BEM,I do not know what I need to do to get my invoices,INVOICE,get_invoice,15,5
+B,I have a problem with the options for delivery,DELIVERY,delivery_options,12,3
+BI,where can I switch user?,ACCOUNT,switch_account,24,0
+BIM,what do I have to do to get refunds?,REFUND,get_refund,16,9
+BI,is it possible to get a refund of money?,REFUND,get_refund,16,9
+B,I need help to solve a payment issue,PAYMENT,payment_issue,18,8
+BL,help me to unsubscribe to your corporate newsletter,NEWSLETTER,newsletter_subscription,17,6
+BIP,where could I track my last order?,ORDER,track_order,25,7
+BE,I do not know what I need to do to leave a review,FEEDBACK,review,22,4
+BILQ,can i lodge a consumer complaint against ur company,FEEDBACK,complaint,7,4
+B,tell me your allowed payment methods,PAYMENT,check_payment_methods,5,8
+BLMZ,check the early exit penaltie,CANCELLATION_FEE,check_cancellation_fee,3,1
+BI,is there a section to submit a review for a service?,FEEDBACK,review,22,4
+BIMP,how could I find information about user account deletions?,ACCOUNT,delete_account,11,0
+B,I want to check your money back policy,REFUND,check_refund_policy,6,9
+BIP,will you show me in what cases can I ask for a refund?,REFUND,check_refund_policy,6,9
+BILZ,were to make a customer complaint against your business?,FEEDBACK,complaint,7,4
+BIP,could you help me subscribe to your company newsletter?,NEWSLETTER,newsletter_subscription,17,6
+BIM,what do I need to do to get refunds of money?,REFUND,get_refund,16,9
+BLQ,need help to create a different online account for my mom,ACCOUNT,create_account,10,0
+BLMZ,informnig of signup issues,ACCOUNT,registration_problems,21,0
+B,help me recovering my password,ACCOUNT,recover_password,20,0
+BL,help me speaking with customer support,CONTACT,contact_customer_service,8,2
+BLQZ,i want helo to make a claim against ur company,FEEDBACK,complaint,7,4
+B,I am trying to edit my account,ACCOUNT,edit_account,14,0
+BIP,could you help me setting another shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I want assistance changing the shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,assistance switching user,ACCOUNT,switch_account,24,0
+B,help me to track an order,ORDER,track_order,25,7
+BIM,how can I find information about the delivery periods?,DELIVERY,delivery_period,13,3
+B,tell me at what time I can contact customer service,CONTACT,contact_customer_service,8,2
+B,I don't know how to remove an item,ORDER,change_order,1,7
+BKM,check invoices from last purchase,INVOICE,check_invoice,4,5
+BM,I don't know how I can buy some of your item,ORDER,place_order,19,7
+B,I want help setting a new shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,I want help buying something,ORDER,place_order,19,7
+BELQ,i do not know what i need to do to open a new plus account,ACCOUNT,create_account,10,0
+BLQ,need help to make a reclamation against ur company,FEEDBACK,complaint,7,4
+BIL,can you help me to speak with someone?,CONTACT,contact_human_agent,9,2
+BLM,see the termination penalties,CANCELLATION_FEE,check_cancellation_fee,3,1
+BP,I would like to know more about a user account deletion,ACCOUNT,delete_account,11,0
+B,help canceling the order I have made,ORDER,cancel_order,0,7
+BM,I need help to add some items,ORDER,change_order,1,7
+BIL,can you help me contacting someone?,CONTACT,contact_human_agent,9,2
+BEM,I do not know what I have to do to get my invoices,INVOICE,get_invoice,15,5
+B,help me submitting some feedback for your services,FEEDBACK,review,22,4
+BIL,can I open a different account?,ACCOUNT,create_account,10,0
+B,I need help to leave a review for your services,FEEDBACK,review,22,4
+BLZ,help me filign a consumer claim against your company,FEEDBACK,complaint,7,4
+BCEILQ,"I cannot remember my account pass, where can I restore it?",ACCOUNT,recover_password,20,0
+BKM,checking invoice from 3 purchases ago,INVOICE,check_invoice,4,5
+B,I don't know what to do to switch to another account,ACCOUNT,switch_account,24,0
+BLQ,i need assistance to create a different user account,ACCOUNT,create_account,10,0
+B,I don't know how to check when my item is going to arrive,DELIVERY,delivery_period,13,3
+BE,I do not know what I have to do to get a refund of money,REFUND,get_refund,16,9
+BIP,where could I check your refund policy?,REFUND,check_refund_policy,6,9
+BCEL,"I am not happy with your services, make a claim",FEEDBACK,complaint,7,4
+BLQ,want support with the user registration,ACCOUNT,registration_problems,21,0
+B,assistance setting a new shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BL,help regarding the sign-up,ACCOUNT,registration_problems,21,0
+BEMP,I do not know how I could get refunds,REFUND,get_refund,16,9
+BIP,could you help me check the status of my refund?,REFUND,track_refund,26,9
+BILQ,can ya help me to modify the data included on my profile,ACCOUNT,edit_account,14,0
+B,tell me about the delivery period,DELIVERY,delivery_period,13,3
+BIP,could you help me to report a payment issue?,PAYMENT,payment_issue,18,8
+B,help me to check your allowed payment methods,PAYMENT,check_payment_methods,5,8
+B,I want help to check what payment methods are available,PAYMENT,check_payment_methods,5,8
+B,I need assistance to get a refund,REFUND,get_refund,16,9
+B,find information about a forgotten password,ACCOUNT,recover_password,20,0
+BI,where can I get information about the options for delivery?,DELIVERY,delivery_options,12,3
+BL,I want assistance to talk to a human agent,CONTACT,contact_human_agent,9,2
+BCILQZ,i have tto update my delivery address can i get some help,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I want help getting a refund of money,REFUND,get_refund,16,9
+B,assistance to get a refund of money,REFUND,get_refund,16,9
+BE,I do not know what I have to do to track an order,ORDER,track_order,25,7
+BE,I do not know how I can set a different shipping address up,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,help to submit some feedback for your services,FEEDBACK,review,22,4
+BL,I want help to list the allowed payment options,PAYMENT,check_payment_methods,5,8
+BIP,could you help me setting up a different shipping address?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+B,assistance to check in what cases can I ask to be refunded,REFUND,check_refund_policy,6,9
+B,I don't know what to do to submit some feedback,FEEDBACK,review,22,4
+B,help me checking at what time customer service available is,CONTACT,contact_customer_service,8,2
+B,I don't know what I have to do to make an order,ORDER,place_order,19,7
+BP,I would like information about changing my shipping address,SHIPPING_ADDRESS,change_shipping_address,2,10
+BLZ,help  to chat with someone,CONTACT,contact_human_agent,9,2
+BI,can you help me set a different shipping address up?,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BEM,I cannot add some items,ORDER,change_order,1,7
+BELMQZ,i do not know hwat to do to see the withdrawal charges,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,I want assistance to cancel the order I have made,ORDER,cancel_order,0,7
+BIMP,how could I get the invoices from September?,INVOICE,get_invoice,15,5
+BI,is it possible to leave a review for your services?,FEEDBACK,review,22,4
+BM,find information about order cancelations,ORDER,cancel_order,0,7
+B,I am trying to check in what cases can I ask for a refund,REFUND,check_refund_policy,6,9
+B,problem with canceling the order I have made,ORDER,cancel_order,0,7
+BL,I want help cancelling the secondary account,ACCOUNT,delete_account,11,0
+BLW,I need assistance seeing your bloody allowed payment options,PAYMENT,check_payment_methods,5,8
+B,I need assistance to make an order,ORDER,place_order,19,7
+BIMP,could you help me report issues with payments?,PAYMENT,payment_issue,18,8
+B,I am trying to check how long the delivery takes,DELIVERY,delivery_period,13,3
+BM,I have problems with canceling my last order,ORDER,cancel_order,0,7
+BIMP,where could I get the invoices from November?,INVOICE,get_invoice,15,5
+BILQ,can i see what hours i can call customer assistance,CONTACT,contact_customer_service,8,2
+BIP,how could I get information about a password recovery?,ACCOUNT,recover_password,20,0
+BI,how can I get information about a user account deletion?,ACCOUNT,delete_account,11,0
+BM,tell me about user account deletions,ACCOUNT,delete_account,11,0
+B,help with changing the order I made,ORDER,change_order,1,7
+BIM,how can I find information about forgotten passwords?,ACCOUNT,recover_password,20,0
+B,help me check the status of my refund,REFUND,track_refund,26,9
+BM,question about forgotten passwords,ACCOUNT,recover_password,20,0
+BM,I don't know how to check the invoices,INVOICE,check_invoice,4,5
+BE,I do not know what I have to do to make a purchase,ORDER,place_order,19,7
+B,change an order,ORDER,change_order,1,7
+BLZ,creaitng premium account for fiancee,ACCOUNT,create_account,10,0
+B,I need to check what payment methods you accept,PAYMENT,check_payment_methods,5,8
+B,I have to submit some feedback,FEEDBACK,review,22,4
+BIP,would it be possible to delete an account?,ACCOUNT,delete_account,11,0
+BIP,could I change my shipping address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+B,I don't know how I can add an item to an order,ORDER,change_order,1,7
+BP,I don't know how I could get my invoice,INVOICE,get_invoice,15,5
+BI,how do I leave a review?,FEEDBACK,review,22,4
+BIMP,could I get the invoices from five purchases ago?,INVOICE,get_invoice,15,5
+BI,can you help me check the invoice?,INVOICE,check_invoice,4,5
+BCELZ,"I do not ahve a user account, help me to register",ACCOUNT,create_account,10,0
+B,I want help to check what payment methods you accept,PAYMENT,check_payment_methods,5,8
+BI,what do I have to do to get a refund?,REFUND,get_refund,16,9
+BIP,could you help me to contact customer service?,CONTACT,contact_customer_service,8,2
+BELM,I do not know how to correct the details on my account,ACCOUNT,edit_account,14,0
+BI,can you help me to submit some feedback for your services?,FEEDBACK,review,22,4
+BE,I do not know how I can check my order ETA,ORDER,track_order,25,7
+BI,what do I have to do to buy something?,ORDER,place_order,19,7
+BILZ,can you ehlp me chatting with a live agent?,CONTACT,contact_human_agent,9,2
+BLMQZ,i dont know how to see the early exiut charges,CANCELLATION_FEE,check_cancellation_fee,3,1
+B,help me check the invoice from last month,INVOICE,check_invoice,4,5
+B,help to solve an issue with payment,PAYMENT,payment_issue,18,8
+B,I want assistance to check what payment methods you accept,PAYMENT,check_payment_methods,5,8
+BI,can I pay with Google Pay?,PAYMENT,check_payment_methods,5,8
+BL,I don't know how I can make a claim against your business,FEEDBACK,complaint,7,4
+BIL,can you tell me about updating the address?,SHIPPING_ADDRESS,change_shipping_address,2,10
+BP,I don't know how I could set up a different shipping address,SHIPPING_ADDRESS,set_up_shipping_address,23,10
+BM,help getting the invoices,INVOICE,get_invoice,15,5
+BIL,can you help me file a customer claim?,FEEDBACK,complaint,7,4
+BI,is it possible to check when will my item arrive?,DELIVERY,delivery_period,13,3
+B,I try to leave a review for your company,FEEDBACK,review,22,4
+B,cancel an order I have made,ORDER,cancel_order,0,7
+BI,how can I leave a review for a service?,FEEDBACK,review,22,4
+BE,I do not know what I need to do to switch user,ACCOUNT,switch_account,24,0
+B,help me submitting some feedback,FEEDBACK,review,22,4
+B,help me checking the status of the refund,REFUND,track_refund,26,9
+BLZ,help me opening a new avcount,ACCOUNT,create_account,10,0
